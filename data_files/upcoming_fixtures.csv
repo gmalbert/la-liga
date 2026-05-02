@@ -1,14 +1,33 @@
 Date,Time,Matchday,HomeTeam,AwayTeam,Status
-2026-04-25,08:00 AM ET,32,Deportivo Alavés,RCD Mallorca,TIMED
-2026-04-25,10:15 AM ET,32,Getafe CF,FC Barcelona,TIMED
-2026-04-25,12:30 PM ET,32,Valencia CF,Girona FC,TIMED
-2026-04-25,03:00 PM ET,32,Club Atlético de Madrid,Athletic Club,TIMED
-2026-04-26,08:00 AM ET,32,Rayo Vallecano de Madrid,Real Sociedad de Fútbol,TIMED
-2026-04-26,10:15 AM ET,32,Real Oviedo,Elche CF,TIMED
-2026-04-26,12:30 PM ET,32,CA Osasuna,Sevilla FC,TIMED
-2026-04-26,03:00 PM ET,32,Villarreal CF,RC Celta de Vigo,TIMED
-2026-04-27,03:00 PM ET,32,RCD Espanyol de Barcelona,Levante UD,TIMED
+2026-05-02,08:00 AM ET,34,Villarreal CF,Levante UD,TIMED
+2026-05-02,10:15 AM ET,34,Valencia CF,Club Atlético de Madrid,TIMED
+2026-05-02,12:30 PM ET,34,Deportivo Alavés,Athletic Club,TIMED
+2026-05-02,03:00 PM ET,34,CA Osasuna,FC Barcelona,TIMED
+2026-05-03,08:00 AM ET,34,RC Celta de Vigo,Elche CF,TIMED
+2026-05-03,10:15 AM ET,34,Getafe CF,Rayo Vallecano de Madrid,TIMED
+2026-05-03,12:30 PM ET,34,Real Betis Balompié,Real Oviedo,TIMED
+2026-05-03,03:00 PM ET,34,RCD Espanyol de Barcelona,Real Madrid CF,TIMED
+2026-05-04,03:00 PM ET,34,Sevilla FC,Real Sociedad de Fútbol,TIMED
+2026-05-08,03:00 PM ET,35,Levante UD,CA Osasuna,TIMED
+2026-05-09,08:00 AM ET,35,Elche CF,Deportivo Alavés,TIMED
+2026-05-09,10:15 AM ET,35,Sevilla FC,RCD Espanyol de Barcelona,TIMED
+2026-05-09,12:30 PM ET,35,Club Atlético de Madrid,RC Celta de Vigo,TIMED
+2026-05-09,03:00 PM ET,35,Real Sociedad de Fútbol,Real Betis Balompié,TIMED
+2026-05-10,08:00 AM ET,35,RCD Mallorca,Villarreal CF,TIMED
+2026-05-10,10:15 AM ET,35,Athletic Club,Valencia CF,TIMED
+2026-05-10,12:30 PM ET,35,Real Oviedo,Getafe CF,TIMED
 2026-05-10,03:00 PM ET,35,FC Barcelona,Real Madrid CF,TIMED
+2026-05-11,03:00 PM ET,35,Rayo Vallecano de Madrid,Girona FC,TIMED
+2026-05-12,01:00 PM ET,36,RC Celta de Vigo,Levante UD,TIMED
+2026-05-12,02:00 PM ET,36,Real Betis Balompié,Elche CF,TIMED
+2026-05-12,03:30 PM ET,36,CA Osasuna,Club Atlético de Madrid,TIMED
+2026-05-13,01:00 PM ET,36,RCD Espanyol de Barcelona,Athletic Club,TIMED
+2026-05-13,01:00 PM ET,36,Villarreal CF,Sevilla FC,TIMED
+2026-05-13,03:30 PM ET,36,Deportivo Alavés,FC Barcelona,TIMED
+2026-05-13,03:30 PM ET,36,Getafe CF,RCD Mallorca,TIMED
+2026-05-14,01:00 PM ET,36,Valencia CF,Rayo Vallecano de Madrid,TIMED
+2026-05-14,02:00 PM ET,36,Girona FC,Real Sociedad de Fútbol,TIMED
+2026-05-14,03:30 PM ET,36,Real Madrid CF,Real Oviedo,TIMED
 2026-05-16,08:00 PM ET,37,Athletic Club,RC Celta de Vigo,SCHEDULED
 2026-05-16,08:00 PM ET,37,Club Atlético de Madrid,Girona FC,SCHEDULED
 2026-05-16,08:00 PM ET,37,FC Barcelona,Real Betis Balompié,SCHEDULED
