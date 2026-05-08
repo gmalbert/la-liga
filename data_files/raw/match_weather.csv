@@ -1,31 +1,41 @@
 Date,HomeTeam,WeatherDesc,TempMaxC,PrecipMM,WindKmh
 2026-05-08,Levante UD,N/A,,,
 2026-05-09,Elche CF,N/A,,,
-2026-05-09,Sevilla FC,Showers,19.9,6.2,20.1
+2026-05-09,Sevilla FC,Thunderstorm,20.4,5.5,23.3
 2026-05-09,Club Atlético de Madrid,N/A,,,
 2026-05-09,Real Sociedad de Fútbol,N/A,,,
 2026-05-10,RCD Mallorca,N/A,,,
 2026-05-10,Athletic Club,N/A,,,
 2026-05-10,Real Oviedo,N/A,,,
 2026-05-10,FC Barcelona,N/A,,,
-2026-05-11,Rayo Vallecano de Madrid,Showers,20.5,0.6,13.0
+2026-05-11,Rayo Vallecano de Madrid,Partly cloudy,20.2,0.0,10.0
 2026-05-12,RC Celta de Vigo,N/A,,,
 2026-05-12,Real Betis Balompié,N/A,,,
 2026-05-12,CA Osasuna,N/A,,,
 2026-05-13,RCD Espanyol de Barcelona,N/A,,,
-2026-05-13,Villarreal CF,Partly cloudy,25.1,0.3,9.1
+2026-05-13,Villarreal CF,Showers,22.7,1.5,10.3
 2026-05-13,Deportivo Alavés,N/A,,,
-2026-05-13,Getafe CF,N/A,,,
-2026-05-14,Valencia CF,N/A,,,
-2026-05-14,Girona FC,N/A,,,
+2026-05-13,Getafe CF,Thunderstorm,19.3,4.8,12.9
+2026-05-14,Valencia CF,Partly cloudy,28.1,0.0,16.5
+2026-05-14,Girona FC,Showers,15.8,22.2,10.5
 2026-05-14,Real Madrid CF,N/A,,,
+2026-05-17,Athletic Club,N/A,,,
+2026-05-17,Club Atlético de Madrid,N/A,,,
+2026-05-17,FC Barcelona,N/A,,,
+2026-05-17,Elche CF,N/A,,,
+2026-05-17,Levante UD,N/A,,,
+2026-05-17,Rayo Vallecano de Madrid,Partly cloudy,23.1,0.0,9.7
+2026-05-17,Real Sociedad de Fútbol,N/A,,,
+2026-05-17,Real Oviedo,N/A,,,
+2026-05-17,CA Osasuna,N/A,,,
+2026-05-17,Sevilla FC,Rainy,27.0,3.0,12.5
 2026-05-23,Deportivo Alavés,N/A,,,
 2026-05-23,Real Betis Balompié,N/A,,,
 2026-05-23,RC Celta de Vigo,N/A,,,
 2026-05-23,RCD Espanyol de Barcelona,N/A,,,
-2026-05-23,Getafe CF,N/A,,,
+2026-05-23,Getafe CF,Partly cloudy,25.5,0.0,25.4
 2026-05-23,RCD Mallorca,N/A,,,
 2026-05-23,Real Madrid CF,N/A,,,
-2026-05-23,Villarreal CF,N/A,,,
+2026-05-23,Villarreal CF,Partly cloudy,22.9,0.0,25.1
 2026-05-23,Valencia CF,N/A,,,
 2026-05-23,Girona FC,N/A,,,
