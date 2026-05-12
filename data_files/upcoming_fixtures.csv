@@ -1,5 +1,4 @@
 Date,Time,Matchday,HomeTeam,AwayTeam,Status
-2026-05-11,03:00 PM ET,35,Rayo Vallecano de Madrid,Girona FC,TIMED
 2026-05-12,01:00 PM ET,36,RC Celta de Vigo,Levante UD,TIMED
 2026-05-12,02:00 PM ET,36,Real Betis Balompié,Elche CF,TIMED
 2026-05-12,03:30 PM ET,36,CA Osasuna,Club Atlético de Madrid,TIMED
@@ -20,13 +19,4 @@ Date,Time,Matchday,HomeTeam,AwayTeam,Status
 2026-05-17,01:00 PM ET,37,Real Oviedo,Deportivo Alavés,TIMED
 2026-05-17,01:00 PM ET,37,CA Osasuna,RCD Espanyol de Barcelona,TIMED
 2026-05-17,01:00 PM ET,37,Sevilla FC,Real Madrid CF,TIMED
-2026-05-23,08:00 PM ET,38,Deportivo Alavés,Rayo Vallecano de Madrid,SCHEDULED
-2026-05-23,08:00 PM ET,38,Real Betis Balompié,Levante UD,SCHEDULED
-2026-05-23,08:00 PM ET,38,RC Celta de Vigo,Sevilla FC,SCHEDULED
-2026-05-23,08:00 PM ET,38,RCD Espanyol de Barcelona,Real Sociedad de Fútbol,SCHEDULED
-2026-05-23,08:00 PM ET,38,Getafe CF,CA Osasuna,SCHEDULED
-2026-05-23,08:00 PM ET,38,RCD Mallorca,Real Oviedo,SCHEDULED
-2026-05-23,08:00 PM ET,38,Real Madrid CF,Athletic Club,SCHEDULED
 2026-05-23,08:00 PM ET,38,Villarreal CF,Club Atlético de Madrid,SCHEDULED
-2026-05-23,08:00 PM ET,38,Valencia CF,FC Barcelona,SCHEDULED
-2026-05-23,08:00 PM ET,38,Girona FC,Elche CF,SCHEDULED
