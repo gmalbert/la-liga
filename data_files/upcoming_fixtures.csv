@@ -1,8 +1,4 @@
 Date,Time,Matchday,HomeTeam,AwayTeam,Status
-2026-05-13,01:00 PM ET,36,RCD Espanyol de Barcelona,Athletic Club,TIMED
-2026-05-13,01:00 PM ET,36,Villarreal CF,Sevilla FC,TIMED
-2026-05-13,03:30 PM ET,36,Deportivo Alavés,FC Barcelona,TIMED
-2026-05-13,03:30 PM ET,36,Getafe CF,RCD Mallorca,TIMED
 2026-05-14,01:00 PM ET,36,Valencia CF,Rayo Vallecano de Madrid,TIMED
 2026-05-14,02:00 PM ET,36,Girona FC,Real Sociedad de Fútbol,TIMED
 2026-05-14,03:30 PM ET,36,Real Madrid CF,Real Oviedo,TIMED
@@ -16,4 +12,13 @@ Date,Time,Matchday,HomeTeam,AwayTeam,Status
 2026-05-17,01:00 PM ET,37,Real Oviedo,Deportivo Alavés,TIMED
 2026-05-17,01:00 PM ET,37,CA Osasuna,RCD Espanyol de Barcelona,TIMED
 2026-05-17,01:00 PM ET,37,Sevilla FC,Real Madrid CF,TIMED
+2026-05-23,03:00 PM ET,38,Deportivo Alavés,Rayo Vallecano de Madrid,TIMED
+2026-05-23,03:00 PM ET,38,Real Betis Balompié,Levante UD,TIMED
+2026-05-23,03:00 PM ET,38,RC Celta de Vigo,Sevilla FC,TIMED
+2026-05-23,03:00 PM ET,38,RCD Espanyol de Barcelona,Real Sociedad de Fútbol,TIMED
+2026-05-23,03:00 PM ET,38,Getafe CF,CA Osasuna,TIMED
+2026-05-23,03:00 PM ET,38,RCD Mallorca,Real Oviedo,TIMED
+2026-05-23,03:00 PM ET,38,Real Madrid CF,Athletic Club,TIMED
+2026-05-23,03:00 PM ET,38,Valencia CF,FC Barcelona,TIMED
+2026-05-23,03:00 PM ET,38,Girona FC,Elche CF,TIMED
 2026-05-23,08:00 PM ET,38,Villarreal CF,Club Atlético de Madrid,SCHEDULED
