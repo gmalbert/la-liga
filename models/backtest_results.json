@@ -1,9 +1,9 @@
 {
-  "n_matches": 4150,
-  "n_bets_placed": 3841,
-  "accuracy": 0.8258,
-  "brier_score": 0.3423,
-  "roi_pct": 146.49,
-  "profit_units": 5626.87,
-  "win_rate_bets": 0.8904
+  "n_matches": 4160,
+  "n_bets_placed": 3849,
+  "accuracy": 0.8327,
+  "brier_score": 0.3399,
+  "roi_pct": 148.84,
+  "profit_units": 5728.85,
+  "win_rate_bets": 0.8911
 }
