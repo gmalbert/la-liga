@@ -3,7 +3,8 @@
 Saves: data_files/raw/odds.csv
 
 Usage:
-    python fetch_odds.py
+    python fetch_odds.py            # skips if odds.csv < MAX_AGE_HOURS old
+    python fetch_odds.py --force    # always fetch regardless of cache age
 
 Requires:
     ODDS_API_KEY in .env (free tier: 500 req/month)
@@ -12,7 +13,9 @@ Requires:
 
 from __future__ import annotations
 
+import argparse
 import os
+import time
 from pathlib import Path
 
 import pandas as pd
@@ -27,18 +30,47 @@ SPORT_KEY     = "soccer_spain_la_liga"
 
 OUT_PATH = "data_files/raw/odds.csv"
 
+# Skip the API call if the output file is fresher than this many hours.
+# One call per day is sufficient; this prevents duplicate burns from manual
+# re-runs or workflow_dispatch triggers within the same day.
+MAX_AGE_HOURS = 20
+
+# Emit a console warning when monthly quota falls this low.
+QUOTA_WARN_THRESHOLD = 50
+
 Path("data_files/raw").mkdir(parents=True, exist_ok=True)
+
+
+def _is_fresh(path: str = OUT_PATH, max_age_hours: int = MAX_AGE_HOURS) -> bool:
+    """Return True if *path* exists and was written within *max_age_hours*."""
+    p = Path(path)
+    if not p.exists():
+        return False
+    age_hours = (time.time() - p.stat().st_mtime) / 3600
+    return age_hours < max_age_hours
 
 
 def fetch_upcoming_odds(
     regions: str = "us,eu",
     markets: str = "h2h",
     bookmakers: str = "draftkings,betmgm,pinnacle,bet365",
+    force: bool = False,
 ) -> pd.DataFrame:
     """
     Fetch upcoming La Liga 1X2 (h2h) odds.
     Returns a DataFrame with one row per game per bookmaker.
+
+    Skips the API call and returns the cached CSV when the file is younger
+    than MAX_AGE_HOURS, unless *force* is True.
     """
+    if not force and _is_fresh():
+        age_h = (time.time() - Path(OUT_PATH).stat().st_mtime) / 3600
+        print(
+            f"  Odds cache is {age_h:.1f}h old (< {MAX_AGE_HOURS}h). "
+            "Skipping API call — use --force to refresh."
+        )
+        return pd.read_csv(OUT_PATH)
+
     if not ODDS_API_KEY:
         raise EnvironmentError(
             "ODDS_API_KEY not set. Copy .env.example to .env and add your key."
@@ -58,9 +90,18 @@ def fetch_upcoming_odds(
     resp.raise_for_status()
 
     # Log remaining quota from response headers
-    remaining = resp.headers.get("x-requests-remaining", "?")
+    remaining_raw = resp.headers.get("x-requests-remaining", "?")
     used = resp.headers.get("x-requests-used", "?")
-    print(f"  Odds API quota — used: {used}, remaining: {remaining}")
+    print(f"  Odds API quota — used: {used}, remaining: {remaining_raw}")
+    try:
+        remaining = int(remaining_raw)
+        if remaining < QUOTA_WARN_THRESHOLD:
+            print(
+                f"  ⚠ WARNING: Only {remaining} Odds API requests remaining this month! "
+                "Consider running with staleness guard (no --force) until quota resets."
+            )
+    except (TypeError, ValueError):
+        pass
 
     games = resp.json()
     if not games:
@@ -124,4 +165,11 @@ def _add_implied_probabilities(df: pd.DataFrame) -> pd.DataFrame:
 
 
 if __name__ == "__main__":
-    fetch_upcoming_odds()
+    parser = argparse.ArgumentParser(description="Fetch La Liga bookmaker odds")
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        help=f"Bypass the {MAX_AGE_HOURS}h staleness guard and always call the API",
+    )
+    args = parser.parse_args()
+    fetch_upcoming_odds(force=args.force)

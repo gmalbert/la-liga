@@ -96,7 +96,7 @@ The app has two themes controlled by `st.session_state["dark_mode"]` (bool, defa
 **Never use `st.dataframe()` directly.** Use `render_table()` from `utils.py` instead:
 ```python
 from utils import render_table
-render_table(df, hide_index=True, use_container_width=True, height=400)
+render_table(df, hide_index=True, width='stretch', height=400)
 ```
 - Night mode → delegates to `st.dataframe()` (interactive canvas)
 - Day mode → renders an HTML table via `st.markdown(unsafe_allow_html=True)` with `.lt-tbl` CSS class, because the canvas renderer ignores CSS and always shows a dark background

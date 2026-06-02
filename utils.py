@@ -628,7 +628,7 @@ def get_dataframe_height(
     return min(h, max_height)
 
 
-def render_table(df_or_styled, *, hide_index: bool = True, use_container_width: bool = True, height: int | None = None, **kwargs) -> None:
+def render_table(df_or_styled, *, hide_index: bool = True, width: str = 'stretch', height: int | None = None, **kwargs) -> None:
     """Render a DataFrame or Styler.
 
     Night mode  → st.dataframe() (interactive canvas, dark theme)
@@ -637,7 +637,7 @@ def render_table(df_or_styled, *, hide_index: bool = True, use_container_width: 
     dark = st.session_state.get("dark_mode", True)
     if dark:
         st.dataframe(df_or_styled, hide_index=hide_index,
-                     use_container_width=use_container_width, height=height, **kwargs)
+                     width=width, height=height, **kwargs)
         return
 
     # Day mode: render as HTML so CSS can control all cell colours

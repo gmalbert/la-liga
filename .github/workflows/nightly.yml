@@ -47,7 +47,7 @@ jobs:
       - name: Fetch bookmaker odds
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
-        run: python fetch_odds.py
+        run: python fetch_odds.py --force
 
       - name: Fetch weather forecast for upcoming fixtures
         run: python fetch_weather_data.py

@@ -28,7 +28,7 @@ STEPS: list[tuple[str, list[str], bool]] = [
     ("Fetch upcoming fixtures",     ["python", "fetch_upcoming_fixtures.py"], False),
     ("Fetch xG proxy",              ["python", "fetch_fbref_xg.py"],          False),
     ("Fetch Copa fixtures",         ["python", "fetch_copa_fixtures.py"],     False),
-    ("Fetch bookmaker odds",        ["python", "fetch_odds.py"],              True),
+    ("Fetch bookmaker odds",        ["python", "fetch_odds.py", "--force"],   True),
     ("Fetch weather forecasts",     ["python", "fetch_weather_data.py"],      False),
     ("Prepare model features",      ["python", "prepare_model_data.py"],      False),
     ("Train models",                ["python", "train_models.py"],            False),
