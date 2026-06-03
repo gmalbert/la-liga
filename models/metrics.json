@@ -1,7 +1,7 @@
 {
-  "accuracy": 0.5275,
-  "f1_macro": 0.4582,
-  "log_loss": 0.9831,
+  "accuracy": 0.5299,
+  "f1_macro": 0.4602,
+  "log_loss": 0.9829,
   "n_train": 3344,
   "n_test": 836,
   "feature_cols": [
