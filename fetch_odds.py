@@ -129,7 +129,22 @@ def fetch_upcoming_odds(
                     "AwayWinOdds":  prices.get(away),
                 })
 
-    df = pd.DataFrame(rows)
+    # Keep a stable schema when games exist but the requested bookmakers have
+    # no active h2h markets (common during the off-season).  Without explicit
+    # columns, an empty ``rows`` list produces a zero-column DataFrame and the
+    # implied-probability calculation raises KeyError.
+    df = pd.DataFrame(
+        rows,
+        columns=[
+            "Date",
+            "HomeTeam",
+            "AwayTeam",
+            "Bookmaker",
+            "HomeWinOdds",
+            "DrawOdds",
+            "AwayWinOdds",
+        ],
+    )
     df = _add_implied_probabilities(df)
     df.to_csv(OUT_PATH, index=False)
     print(f"  ✓ Odds for {len(games)} games, {len(df)} bookmaker rows → {OUT_PATH}")
