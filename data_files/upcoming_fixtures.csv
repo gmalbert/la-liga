@@ -1,34 +1,34 @@
 Date,Time,Matchday,HomeTeam,AwayTeam,Status
-2026-08-16,11:00 AM ET,1,Club Atlético de Madrid,Málaga CF,SCHEDULED
+2026-08-15,01:30 PM ET,1,Deportivo Alavés,Getafe CF,SCHEDULED
+2026-08-15,03:30 PM ET,1,Sevilla FC,Rayo Vallecano de Madrid,SCHEDULED
 2026-08-16,11:00 AM ET,1,Real Racing Club de Santander,Villarreal CF,SCHEDULED
-2026-08-16,11:00 AM ET,1,FC Barcelona,Athletic Club,SCHEDULED
-2026-08-16,11:00 AM ET,1,Real Madrid CF,Real Sociedad de Fútbol,SCHEDULED
-2026-08-16,11:00 AM ET,1,RCD Espanyol de Barcelona,Levante UD,SCHEDULED
-2026-08-16,11:00 AM ET,1,Sevilla FC,Rayo Vallecano de Madrid,SCHEDULED
-2026-08-16,11:00 AM ET,1,Deportivo Alavés,Getafe CF,SCHEDULED
-2026-08-16,11:00 AM ET,1,RC Deportivo La Coruña,Elche CF,SCHEDULED
-2026-08-16,11:00 AM ET,1,RC Celta de Vigo,CA Osasuna,SCHEDULED
-2026-08-16,11:00 AM ET,1,Valencia CF,Real Betis Balompié,SCHEDULED
-2026-08-23,11:00 AM ET,2,Rayo Vallecano de Madrid,Deportivo Alavés,SCHEDULED
-2026-08-23,11:00 AM ET,2,CA Osasuna,Levante UD,SCHEDULED
-2026-08-23,11:00 AM ET,2,Málaga CF,RC Deportivo La Coruña,SCHEDULED
-2026-08-23,11:00 AM ET,2,Athletic Club,Sevilla FC,SCHEDULED
-2026-08-23,11:00 AM ET,2,Elche CF,FC Barcelona,SCHEDULED
-2026-08-23,11:00 AM ET,2,Valencia CF,RC Celta de Vigo,SCHEDULED
-2026-08-23,11:00 AM ET,2,Getafe CF,Real Racing Club de Santander,SCHEDULED
-2026-08-23,11:00 AM ET,2,RCD Espanyol de Barcelona,Real Madrid CF,SCHEDULED
+2026-08-16,01:00 PM ET,1,RCD Espanyol de Barcelona,Levante UD,SCHEDULED
+2026-08-16,03:30 PM ET,1,RC Celta de Vigo,CA Osasuna,SCHEDULED
+2026-08-17,03:00 PM ET,1,RC Deportivo La Coruña,Elche CF,SCHEDULED
+2026-08-19,03:00 PM ET,1,Club Atlético de Madrid,Málaga CF,SCHEDULED
+2026-08-20,03:00 PM ET,2,Rayo Vallecano de Madrid,Deportivo Alavés,SCHEDULED
+2026-08-21,03:00 PM ET,2,Real Betis Balompié,Real Sociedad de Fútbol,SCHEDULED
+2026-08-22,11:00 AM ET,2,Athletic Club,Sevilla FC,SCHEDULED
+2026-08-22,01:30 PM ET,2,Valencia CF,RC Celta de Vigo,SCHEDULED
+2026-08-22,03:30 PM ET,2,RCD Espanyol de Barcelona,Real Madrid CF,SCHEDULED
 2026-08-23,11:00 AM ET,2,Club Atlético de Madrid,Villarreal CF,SCHEDULED
-2026-08-23,11:00 AM ET,2,Real Betis Balompié,Real Sociedad de Fútbol,SCHEDULED
-2026-08-30,11:00 AM ET,3,Deportivo Alavés,Villarreal CF,SCHEDULED
-2026-08-30,11:00 AM ET,3,Sevilla FC,Club Atlético de Madrid,SCHEDULED
-2026-08-30,11:00 AM ET,3,FC Barcelona,Rayo Vallecano de Madrid,SCHEDULED
-2026-08-30,11:00 AM ET,3,RC Deportivo La Coruña,Valencia CF,SCHEDULED
-2026-08-30,11:00 AM ET,3,RC Celta de Vigo,Athletic Club,SCHEDULED
-2026-08-30,11:00 AM ET,3,Real Sociedad de Fútbol,RCD Espanyol de Barcelona,SCHEDULED
-2026-08-30,11:00 AM ET,3,Real Racing Club de Santander,Elche CF,SCHEDULED
-2026-08-30,11:00 AM ET,3,Levante UD,Real Betis Balompié,SCHEDULED
+2026-08-23,01:30 PM ET,2,Getafe CF,Real Racing Club de Santander,SCHEDULED
+2026-08-23,03:30 PM ET,2,Elche CF,FC Barcelona,SCHEDULED
+2026-08-24,01:30 PM ET,2,CA Osasuna,Levante UD,SCHEDULED
+2026-08-24,03:30 PM ET,2,Málaga CF,RC Deportivo La Coruña,SCHEDULED
+2026-08-25,03:00 PM ET,1,Valencia CF,Real Betis Balompié,SCHEDULED
+2026-08-26,03:00 PM ET,1,Real Madrid CF,Real Sociedad de Fútbol,SCHEDULED
+2026-08-27,03:00 PM ET,1,FC Barcelona,Athletic Club,SCHEDULED
+2026-08-28,01:00 PM ET,3,Real Racing Club de Santander,Elche CF,SCHEDULED
+2026-08-28,03:30 PM ET,3,Deportivo Alavés,Villarreal CF,SCHEDULED
+2026-08-29,11:00 AM ET,3,Levante UD,Real Betis Balompié,SCHEDULED
+2026-08-29,01:00 PM ET,3,Real Sociedad de Fútbol,RCD Espanyol de Barcelona,SCHEDULED
+2026-08-29,03:30 PM ET,3,Sevilla FC,Club Atlético de Madrid,SCHEDULED
 2026-08-30,11:00 AM ET,3,Real Madrid CF,Málaga CF,SCHEDULED
-2026-08-30,11:00 AM ET,3,CA Osasuna,Getafe CF,SCHEDULED
+2026-08-30,01:30 PM ET,3,RC Deportivo La Coruña,Valencia CF,SCHEDULED
+2026-08-30,03:30 PM ET,3,RC Celta de Vigo,Athletic Club,SCHEDULED
+2026-08-31,01:30 PM ET,3,CA Osasuna,Getafe CF,SCHEDULED
+2026-08-31,03:30 PM ET,3,FC Barcelona,Rayo Vallecano de Madrid,SCHEDULED
 2026-09-06,11:00 AM ET,4,Elche CF,Real Sociedad de Fútbol,SCHEDULED
 2026-09-06,11:00 AM ET,4,Valencia CF,FC Barcelona,SCHEDULED
 2026-09-06,11:00 AM ET,4,Rayo Vallecano de Madrid,Real Racing Club de Santander,SCHEDULED
