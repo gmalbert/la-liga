@@ -18,13 +18,31 @@ from pathlib import Path
 import pandas as pd
 import pytz
 import requests
+import urllib3
 from dotenv import load_dotenv
+
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 load_dotenv()
 
 FOOTBALL_DATA_KEY = os.getenv("FOOTBALL_DATA_KEY", "")
 BASE_URL = "https://api.football-data.org/v4"
 HEADERS = {"X-Auth-Token": FOOTBALL_DATA_KEY}
+
+_SESSION: requests.Session | None = None
+
+
+def _get_session() -> requests.Session:
+    global _SESSION
+    if _SESSION is None:
+        _SESSION = requests.Session()
+        _SESSION.verify = False
+        _SESSION.headers.update(HEADERS)
+        adapter = requests.adapters.HTTPAdapter(
+            max_retries=urllib3.Retry(total=3, backoff_factor=1)
+        )
+        _SESSION.mount("https://", adapter)
+    return _SESSION
 
 OUT_PATH = "data_files/upcoming_fixtures.csv"
 
@@ -43,9 +61,8 @@ def fetch_upcoming_pd_fixtures(season: int | None = None) -> pd.DataFrame:
     if season:
         params["season"] = season
 
-    resp = requests.get(
+    resp = _get_session().get(
         f"{BASE_URL}/competitions/PD/matches",
-        headers=HEADERS,
         params=params,
         timeout=15,
     )
@@ -75,7 +92,7 @@ def fetch_upcoming_pd_fixtures(season: int | None = None) -> pd.DataFrame:
 
     Path("data_files").mkdir(parents=True, exist_ok=True)
     df.to_csv(OUT_PATH, index=False)
-    print(f"✓ Saved {len(df)} upcoming fixtures → {OUT_PATH}")
+    print(f"OK  Saved {len(df)} upcoming fixtures -> {OUT_PATH}")
     return df
 
 
@@ -86,9 +103,8 @@ def fetch_recent_results(n_matchdays: int = 3) -> pd.DataFrame:
     if not FOOTBALL_DATA_KEY:
         return pd.DataFrame()
 
-    resp = requests.get(
+    resp = _get_session().get(
         f"{BASE_URL}/competitions/PD/matches",
-        headers=HEADERS,
         params={"status": "FINISHED"},
         timeout=15,
     )
