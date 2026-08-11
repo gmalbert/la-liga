@@ -461,3 +461,348 @@ LoggedAt,MatchDate,HomeTeam,AwayTeam,PredHomeWin,PredDraw,PredAwayWin,PredictedR
 2026-07-22 08:02:12,2026-08-31,CA Osasuna,Getafe CF,43.8,28.0,28.2,H,,,ensemble_v1
 2026-07-22 08:02:12,2026-08-31,FC Barcelona,Rayo Vallecano de Madrid,49.2,24.8,26.0,H,,,ensemble_v1
 2026-08-10 07:47:52,2026-09-03,Real Sociedad de Fútbol,RC Celta de Vigo,36.2,36.4,27.4,D,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-04,Real Betis Balompié,Real Madrid CF,43.7,20.9,35.4,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-05,Athletic Club,Club Atlético de Madrid,37.5,32.6,29.9,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-05,Rayo Vallecano de Madrid,Real Racing Club de Santander,39.9,31.3,28.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-05,Villarreal CF,RC Deportivo La Coruña,45.4,21.2,33.4,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-07,Getafe CF,RC Celta de Vigo,53.1,21.6,25.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-07,Elche CF,Real Sociedad de Fútbol,47.6,29.3,23.1,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-12,Getafe CF,RC Deportivo La Coruña,45.0,30.8,24.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-12,Sevilla FC,Valencia CF,47.6,30.8,21.6,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-12,Real Racing Club de Santander,Deportivo Alavés,45.5,25.2,29.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-12,Villarreal CF,Real Betis Balompié,51.4,15.7,33.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-12,RC Celta de Vigo,Málaga CF,38.1,35.9,26.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-12,CA Osasuna,RCD Espanyol de Barcelona,35.7,45.1,19.2,D,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-12,Real Sociedad de Fútbol,Club Atlético de Madrid,28.0,41.5,30.4,D,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-12,Levante UD,FC Barcelona,37.9,18.1,44.0,A,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-12,Athletic Club,Elche CF,36.2,27.0,36.8,A,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-12,Real Madrid CF,Rayo Vallecano de Madrid,46.5,19.3,34.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-15,Rayo Vallecano de Madrid,RCD Espanyol de Barcelona,34.3,44.5,21.2,D,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-15,RC Deportivo La Coruña,Sevilla FC,50.5,21.8,27.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-15,Deportivo Alavés,Valencia CF,39.8,28.1,32.1,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-15,Elche CF,Real Madrid CF,54.8,20.1,25.1,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-15,Málaga CF,Villarreal CF,47.5,21.6,30.9,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-15,Club Atlético de Madrid,CA Osasuna,34.8,42.7,22.5,D,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-15,Levante UD,Athletic Club,42.0,29.2,28.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-15,Real Betis Balompié,Getafe CF,43.5,18.1,38.4,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-15,FC Barcelona,Real Racing Club de Santander,51.7,20.9,27.5,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-19,Club Atlético de Madrid,Real Madrid CF,38.3,29.3,32.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-19,Valencia CF,Real Sociedad de Fútbol,42.6,30.0,27.4,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-19,Sevilla FC,FC Barcelona,50.3,22.7,26.9,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-19,Athletic Club,Deportivo Alavés,37.5,32.6,29.9,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-19,RCD Espanyol de Barcelona,Elche CF,33.7,31.3,35.0,A,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-19,CA Osasuna,Rayo Vallecano de Madrid,41.5,32.8,25.7,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-19,RC Celta de Vigo,Real Racing Club de Santander,38.1,35.9,26.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-19,RC Deportivo La Coruña,Real Betis Balompié,41.9,28.8,29.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-19,Villarreal CF,Levante UD,61.4,11.7,26.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-09-19,Getafe CF,Málaga CF,45.0,30.8,24.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-10,Rayo Vallecano de Madrid,Athletic Club,40.8,35.0,24.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-10,Deportivo Alavés,Club Atlético de Madrid,36.3,29.4,34.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-10,FC Barcelona,Getafe CF,46.5,19.4,34.1,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-10,Real Betis Balompié,CA Osasuna,39.0,36.0,25.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-10,Real Madrid CF,Villarreal CF,41.8,15.6,42.6,A,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-10,Elche CF,RC Celta de Vigo,58.4,17.3,24.4,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-10,Levante UD,Sevilla FC,36.1,22.1,41.8,A,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-10,Real Racing Club de Santander,Valencia CF,44.2,27.8,28.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-10,Málaga CF,RCD Espanyol de Barcelona,41.4,38.1,20.5,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-10,Real Sociedad de Fútbol,RC Deportivo La Coruña,32.5,32.9,34.6,A,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-17,Villarreal CF,Elche CF,45.8,15.1,39.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-17,Real Madrid CF,Sevilla FC,45.6,16.3,38.1,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-17,RCD Espanyol de Barcelona,Club Atlético de Madrid,34.8,34.2,31.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-17,Valencia CF,Athletic Club,51.6,23.1,25.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-17,RC Celta de Vigo,Deportivo Alavés,37.9,33.3,28.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-17,Real Betis Balompié,FC Barcelona,42.7,15.6,41.7,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-17,Málaga CF,Real Sociedad de Fútbol,48.6,32.1,19.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-17,CA Osasuna,Real Racing Club de Santander,40.2,34.5,25.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-17,RC Deportivo La Coruña,Levante UD,51.0,18.4,30.6,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-17,Getafe CF,Rayo Vallecano de Madrid,49.6,24.8,25.6,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-24,Rayo Vallecano de Madrid,Elche CF,37.7,20.6,41.7,A,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-24,Deportivo Alavés,Málaga CF,35.3,29.7,35.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-24,Athletic Club,Getafe CF,43.6,27.8,28.5,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-24,Sevilla FC,CA Osasuna,30.0,53.2,16.8,D,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-24,Valencia CF,Villarreal CF,43.5,16.4,40.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-24,FC Barcelona,Real Madrid CF,45.2,23.0,31.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-24,Club Atlético de Madrid,RC Deportivo La Coruña,35.3,29.7,35.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-24,RC Celta de Vigo,Real Betis Balompié,37.1,36.1,26.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-24,Real Sociedad de Fútbol,Levante UD,45.4,22.9,31.7,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-24,Real Racing Club de Santander,RCD Espanyol de Barcelona,41.4,38.1,20.5,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-31,Real Betis Balompié,Málaga CF,38.1,22.8,39.0,A,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-31,Villarreal CF,RCD Espanyol de Barcelona,46.8,24.0,29.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-31,Elche CF,Valencia CF,54.2,19.1,26.7,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-31,Athletic Club,Real Sociedad de Fútbol,33.3,43.2,23.5,D,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-31,Levante UD,Club Atlético de Madrid,27.4,24.2,48.4,A,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-31,RC Deportivo La Coruña,CA Osasuna,45.8,35.2,19.1,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-31,FC Barcelona,Deportivo Alavés,45.3,23.7,31.1,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-31,Getafe CF,Sevilla FC,48.7,21.1,30.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-31,Real Racing Club de Santander,Real Madrid CF,48.8,24.2,27.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-10-31,Rayo Vallecano de Madrid,RC Celta de Vigo,46.0,24.1,29.9,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-07,Elche CF,Real Betis Balompié,49.1,22.0,28.9,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-07,CA Osasuna,Athletic Club,38.8,33.6,27.6,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-07,Sevilla FC,Deportivo Alavés,43.7,32.6,23.7,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-07,Valencia CF,Real Madrid CF,47.6,18.2,34.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-07,RC Celta de Vigo,Levante UD,50.4,24.3,25.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-07,Real Sociedad de Fútbol,Rayo Vallecano de Madrid,30.7,39.8,29.5,D,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-07,Málaga CF,Real Racing Club de Santander,44.2,29.9,25.9,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-07,RCD Espanyol de Barcelona,RC Deportivo La Coruña,32.9,30.8,36.3,A,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-07,Club Atlético de Madrid,FC Barcelona,43.2,19.7,37.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-07,Villarreal CF,Getafe CF,52.5,14.9,32.6,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-21,Athletic Club,RCD Espanyol de Barcelona,34.1,45.3,20.7,D,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-21,FC Barcelona,Villarreal CF,47.2,20.4,32.4,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-21,Real Racing Club de Santander,Real Sociedad de Fútbol,48.6,32.1,19.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-21,Rayo Vallecano de Madrid,Valencia CF,43.1,26.0,30.9,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-21,CA Osasuna,Málaga CF,40.2,34.5,25.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-21,Getafe CF,Club Atlético de Madrid,44.7,27.7,27.6,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-21,Real Madrid CF,RC Celta de Vigo,49.2,17.1,33.6,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-21,Deportivo Alavés,RC Deportivo La Coruña,35.3,29.7,35.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-21,Sevilla FC,Real Betis Balompié,43.4,34.7,21.9,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-21,Levante UD,Elche CF,28.8,20.8,50.4,A,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-28,RC Celta de Vigo,Villarreal CF,40.0,30.1,30.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-28,Elche CF,Club Atlético de Madrid,45.7,23.2,31.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-28,Real Betis Balompié,Rayo Vallecano de Madrid,47.6,19.9,32.5,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-28,Valencia CF,CA Osasuna,42.5,32.2,25.4,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-28,Real Madrid CF,Deportivo Alavés,40.3,19.2,40.5,A,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-28,RCD Espanyol de Barcelona,Getafe CF,33.0,31.7,35.3,A,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-28,Real Sociedad de Fútbol,Sevilla FC,32.4,35.1,32.5,D,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-28,Levante UD,Real Racing Club de Santander,39.0,21.0,39.9,A,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-28,RC Deportivo La Coruña,FC Barcelona,48.4,19.3,32.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-11-28,Málaga CF,Athletic Club,54.3,26.1,19.6,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-05,CA Osasuna,Elche CF,36.2,25.9,37.9,A,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-05,Sevilla FC,Málaga CF,40.5,36.3,23.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-05,Deportivo Alavés,RCD Espanyol de Barcelona,34.1,40.4,25.4,D,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-05,Club Atlético de Madrid,Real Betis Balompié,35.3,31.3,33.4,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-05,Real Racing Club de Santander,RC Deportivo La Coruña,44.2,29.9,25.9,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-05,FC Barcelona,RC Celta de Vigo,55.4,19.5,25.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-05,Getafe CF,Valencia CF,49.6,25.0,25.4,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-05,Athletic Club,Real Madrid CF,38.1,29.6,32.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-05,Villarreal CF,Real Sociedad de Fútbol,50.4,27.7,21.9,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-05,Rayo Vallecano de Madrid,Levante UD,46.4,21.8,31.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-12,RCD Espanyol de Barcelona,RC Celta de Vigo,41.9,30.8,27.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-12,Málaga CF,FC Barcelona,48.4,19.3,32.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-12,Real Madrid CF,CA Osasuna,39.0,33.9,27.1,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-12,RC Deportivo La Coruña,Athletic Club,54.3,26.1,19.6,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-12,Levante UD,Deportivo Alavés,27.4,24.2,48.4,A,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-12,Elche CF,Sevilla FC,52.9,18.3,28.7,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-12,Villarreal CF,Rayo Vallecano de Madrid,57.8,15.1,27.1,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-12,Real Betis Balompié,Real Racing Club de Santander,38.1,22.8,39.0,A,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-12,Real Sociedad de Fútbol,Getafe CF,31.0,37.8,31.2,D,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-12,Club Atlético de Madrid,Valencia CF,39.8,28.1,32.1,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-19,Athletic Club,Real Betis Balompié,35.4,32.6,32.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-19,Getafe CF,Levante UD,51.3,22.9,25.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-19,Deportivo Alavés,Elche CF,36.8,23.8,39.4,A,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-19,Valencia CF,RCD Espanyol de Barcelona,39.9,29.5,30.6,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-19,CA Osasuna,Villarreal CF,38.8,25.1,36.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-19,FC Barcelona,Real Sociedad de Fútbol,46.9,35.2,17.9,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-19,RC Celta de Vigo,Club Atlético de Madrid,37.9,33.3,28.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-19,Rayo Vallecano de Madrid,Málaga CF,39.9,31.3,28.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-19,RC Deportivo La Coruña,Real Madrid CF,48.8,24.2,27.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2026-12-19,Sevilla FC,Real Racing Club de Santander,40.5,36.3,23.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-02,Real Madrid CF,Getafe CF,42.7,17.3,40.1,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-02,Real Sociedad de Fútbol,CA Osasuna,27.4,53.0,19.7,D,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-02,Levante UD,Valencia CF,28.7,23.1,48.2,A,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-02,Real Racing Club de Santander,Athletic Club,54.3,26.1,19.6,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-02,Málaga CF,Elche CF,45.5,21.7,32.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-02,Real Betis Balompié,Deportivo Alavés,36.8,21.7,41.5,A,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-02,RC Celta de Vigo,RC Deportivo La Coruña,38.1,35.9,26.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-02,RCD Espanyol de Barcelona,FC Barcelona,40.3,23.5,36.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-02,Villarreal CF,Sevilla FC,53.4,14.5,32.1,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-02,Rayo Vallecano de Madrid,Club Atlético de Madrid,38.7,28.5,32.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-09,Athletic Club,Villarreal CF,40.1,26.0,33.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-09,Elche CF,Getafe CF,49.3,20.1,30.6,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-09,Real Madrid CF,Levante UD,44.3,15.2,40.4,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-09,CA Osasuna,FC Barcelona,42.6,20.2,37.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-09,RC Deportivo La Coruña,Rayo Vallecano de Madrid,50.3,25.1,24.6,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-09,Club Atlético de Madrid,Real Racing Club de Santander,35.3,29.7,35.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-09,Deportivo Alavés,Real Sociedad de Fútbol,39.7,34.6,25.7,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-09,Sevilla FC,RC Celta de Vigo,53.6,25.5,20.9,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-09,RCD Espanyol de Barcelona,Real Betis Balompié,31.0,40.8,28.2,D,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-09,Valencia CF,Málaga CF,39.3,22.2,38.5,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-16,Málaga CF,Real Madrid CF,48.8,24.2,27.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-16,FC Barcelona,Elche CF,44.1,19.6,36.4,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-16,Villarreal CF,Deportivo Alavés,47.4,16.6,36.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-16,Real Racing Club de Santander,CA Osasuna,45.8,35.2,19.1,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-16,Levante UD,RCD Espanyol de Barcelona,28.4,36.1,35.6,D,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-16,RC Celta de Vigo,Valencia CF,42.2,32.3,25.6,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-16,Getafe CF,Athletic Club,48.9,30.5,20.6,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-16,Rayo Vallecano de Madrid,Sevilla FC,44.4,22.0,33.7,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-16,Real Betis Balompié,RC Deportivo La Coruña,38.1,22.8,39.0,A,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-16,Club Atlético de Madrid,Real Sociedad de Fútbol,39.7,34.6,25.7,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-23,Real Madrid CF,Real Betis Balompié,41.0,20.7,38.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-23,Getafe CF,CA Osasuna,39.4,39.5,21.1,D,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-23,Valencia CF,Sevilla FC,46.8,15.3,37.9,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-23,Elche CF,Rayo Vallecano de Madrid,59.2,18.8,22.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-23,Deportivo Alavés,FC Barcelona,43.2,19.7,37.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-23,Real Sociedad de Fútbol,Málaga CF,32.5,32.9,34.6,A,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-23,Real Racing Club de Santander,RC Celta de Vigo,50.8,23.4,25.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-23,Athletic Club,Levante UD,44.4,20.8,34.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-23,RCD Espanyol de Barcelona,Villarreal CF,34.5,33.0,32.5,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-23,RC Deportivo La Coruña,Club Atlético de Madrid,45.5,25.2,29.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-30,Real Betis Balompié,Elche CF,38.9,18.0,43.1,A,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-30,Rayo Vallecano de Madrid,Real Madrid CF,43.5,28.7,27.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-30,Club Atlético de Madrid,RCD Espanyol de Barcelona,34.1,40.4,25.4,D,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-30,RC Celta de Vigo,Getafe CF,42.7,27.6,29.7,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-30,Villarreal CF,Real Racing Club de Santander,45.4,21.2,33.4,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-30,Levante UD,Real Sociedad de Fútbol,34.5,33.3,32.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-30,FC Barcelona,Valencia CF,47.8,22.1,30.1,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-30,Sevilla FC,Athletic Club,43.4,39.3,17.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-30,CA Osasuna,RC Deportivo La Coruña,40.2,34.5,25.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-01-30,Málaga CF,Deportivo Alavés,45.5,25.2,29.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-06,Athletic Club,CA Osasuna,33.5,42.1,24.4,D,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-06,Deportivo Alavés,RC Celta de Vigo,47.3,22.9,29.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-06,Real Betis Balompié,Sevilla FC,44.9,16.8,38.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-06,Elche CF,Levante UD,62.4,15.1,22.5,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-06,RCD Espanyol de Barcelona,Rayo Vallecano de Madrid,32.9,40.0,27.2,D,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-06,Getafe CF,Villarreal CF,47.0,21.3,31.7,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-06,RC Deportivo La Coruña,Málaga CF,44.2,29.9,25.9,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-06,Real Sociedad de Fútbol,Real Madrid CF,29.5,34.7,35.8,A,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-06,Valencia CF,Real Racing Club de Santander,39.3,22.2,38.5,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-06,FC Barcelona,Club Atlético de Madrid,45.3,23.7,31.1,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-13,Sevilla FC,RCD Espanyol de Barcelona,36.8,44.6,18.7,D,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-13,CA Osasuna,Club Atlético de Madrid,36.9,33.1,30.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-13,RC Celta de Vigo,Rayo Vallecano de Madrid,49.4,27.3,23.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-13,Villarreal CF,FC Barcelona,48.9,12.3,38.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-13,Real Sociedad de Fútbol,Real Betis Balompié,28.5,39.5,32.0,D,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-13,Elche CF,RC Deportivo La Coruña,42.8,25.9,31.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-13,Valencia CF,Deportivo Alavés,38.6,19.0,42.4,A,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-13,Levante UD,Málaga CF,39.0,21.0,39.9,A,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-13,Real Racing Club de Santander,Getafe CF,50.9,22.4,26.7,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-13,Real Madrid CF,Athletic Club,45.8,26.4,27.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-20,Deportivo Alavés,Real Racing Club de Santander,35.3,29.7,35.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-20,Málaga CF,Real Betis Balompié,41.9,28.8,29.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-20,Villarreal CF,Valencia CF,53.9,14.1,32.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-20,FC Barcelona,Levante UD,53.9,16.3,29.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-20,Athletic Club,RC Celta de Vigo,45.2,27.6,27.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-20,RCD Espanyol de Barcelona,CA Osasuna,36.6,44.4,19.1,D,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-20,Sevilla FC,Real Madrid CF,46.4,30.5,23.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-20,Club Atlético de Madrid,Elche CF,36.8,23.8,39.4,A,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-20,RC Deportivo La Coruña,Real Sociedad de Fútbol,48.6,32.1,19.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-20,Rayo Vallecano de Madrid,Getafe CF,43.3,23.6,33.1,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-27,RC Celta de Vigo,RCD Espanyol de Barcelona,31.9,48.6,19.4,D,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-27,Levante UD,RC Deportivo La Coruña,39.0,21.0,39.9,A,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-27,Málaga CF,Club Atlético de Madrid,45.5,25.2,29.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-27,CA Osasuna,Sevilla FC,39.7,27.9,32.4,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-27,Real Madrid CF,Valencia CF,44.8,18.0,37.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-27,Getafe CF,Deportivo Alavés,44.7,27.7,27.6,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-27,Athletic Club,FC Barcelona,42.1,22.6,35.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-27,Real Racing Club de Santander,Rayo Vallecano de Madrid,50.3,25.1,24.6,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-27,Real Betis Balompié,Villarreal CF,40.0,19.4,40.6,A,,,ensemble_v1
+2026-08-11 07:42:13,2027-02-27,Real Sociedad de Fútbol,Elche CF,27.8,35.2,36.9,A,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-06,FC Barcelona,Real Betis Balompié,44.1,24.0,31.9,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-06,Elche CF,Málaga CF,42.8,25.9,31.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-06,Deportivo Alavés,Athletic Club,47.2,30.6,22.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-06,Rayo Vallecano de Madrid,CA Osasuna,33.1,46.1,20.8,D,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-06,Sevilla FC,Real Sociedad de Fútbol,38.6,42.7,18.7,D,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-06,Club Atlético de Madrid,RC Celta de Vigo,47.3,22.9,29.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-06,Villarreal CF,Real Madrid CF,55.1,13.6,31.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-06,Valencia CF,Levante UD,49.3,16.6,34.1,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-06,RC Deportivo La Coruña,Getafe CF,50.9,22.4,26.7,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-06,RCD Espanyol de Barcelona,Real Racing Club de Santander,32.9,30.8,36.3,A,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-13,CA Osasuna,RC Celta de Vigo,41.3,28.0,30.7,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-13,Elche CF,Villarreal CF,53.0,17.4,29.6,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-13,Deportivo Alavés,Sevilla FC,43.4,22.4,34.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-13,Athletic Club,Valencia CF,35.5,30.5,34.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-13,Real Betis Balompié,Levante UD,49.1,19.4,31.5,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-13,Real Racing Club de Santander,Club Atlético de Madrid,45.5,25.2,29.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-13,Málaga CF,Rayo Vallecano de Madrid,50.3,25.1,24.6,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-13,Getafe CF,Real Sociedad de Fútbol,47.0,31.7,21.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-13,FC Barcelona,RC Deportivo La Coruña,51.7,20.9,27.5,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-13,Real Madrid CF,RCD Espanyol de Barcelona,41.5,29.0,29.5,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-20,Villarreal CF,Málaga CF,45.4,21.2,33.4,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-20,Sevilla FC,Elche CF,40.5,29.3,30.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-20,Levante UD,CA Osasuna,32.1,33.7,34.2,A,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-20,RC Celta de Vigo,Real Madrid CF,47.1,29.1,23.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-20,Rayo Vallecano de Madrid,FC Barcelona,42.2,17.7,40.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-20,Real Sociedad de Fútbol,Deportivo Alavés,28.0,41.5,30.4,D,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-20,RCD Espanyol de Barcelona,Athletic Club,45.4,34.5,20.1,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-20,Real Racing Club de Santander,Real Betis Balompié,41.9,28.8,29.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-20,Valencia CF,RC Deportivo La Coruña,39.3,22.2,38.5,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-03-20,Club Atlético de Madrid,Getafe CF,39.4,24.8,35.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-03,Levante UD,Rayo Vallecano de Madrid,34.7,29.2,36.1,A,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-03,FC Barcelona,Sevilla FC,53.6,19.0,27.4,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-03,Málaga CF,CA Osasuna,45.8,35.2,19.1,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-03,Athletic Club,Real Racing Club de Santander,43.7,30.8,25.5,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-03,RC Deportivo La Coruña,Villarreal CF,47.5,21.6,30.9,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-03,Real Sociedad de Fútbol,Valencia CF,29.8,37.4,32.8,D,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-03,Elche CF,Deportivo Alavés,45.7,23.2,31.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-03,Real Madrid CF,Club Atlético de Madrid,40.3,19.2,40.5,A,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-03,Getafe CF,RCD Espanyol de Barcelona,40.7,37.4,21.9,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-03,Real Betis Balompié,RC Celta de Vigo,50.3,18.4,31.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-10,Rayo Vallecano de Madrid,Real Sociedad de Fútbol,33.6,44.4,22.1,D,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-10,RCD Espanyol de Barcelona,Málaga CF,32.9,30.8,36.3,A,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-10,Villarreal CF,Athletic Club,57.2,20.6,22.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-10,Deportivo Alavés,Real Betis Balompié,35.3,31.3,33.4,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-10,Valencia CF,Getafe CF,46.3,15.9,37.7,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-10,Sevilla FC,RC Deportivo La Coruña,40.5,36.3,23.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-10,RC Celta de Vigo,Elche CF,36.4,28.7,34.9,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-10,Real Racing Club de Santander,FC Barcelona,48.4,19.3,32.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-10,CA Osasuna,Real Madrid CF,38.9,31.2,29.9,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-10,Club Atlético de Madrid,Levante UD,47.1,26.1,26.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-17,Club Atlético de Madrid,Sevilla FC,43.4,22.4,34.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-17,FC Barcelona,RCD Espanyol de Barcelona,41.7,36.2,22.1,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-17,Levante UD,Villarreal CF,30.9,20.2,48.9,A,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-17,Real Sociedad de Fútbol,Real Racing Club de Santander,32.5,32.9,34.6,A,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-17,Málaga CF,Valencia CF,44.2,27.8,28.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-17,RC Deportivo La Coruña,RC Celta de Vigo,50.8,23.4,25.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-17,Elche CF,CA Osasuna,39.8,37.0,23.1,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-17,Deportivo Alavés,Rayo Vallecano de Madrid,44.3,26.2,29.4,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-17,Real Betis Balompié,Athletic Club,49.0,25.7,25.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-17,Getafe CF,Real Madrid CF,44.3,28.2,27.5,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-20,Getafe CF,Real Betis Balompié,46.4,27.7,25.9,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-20,Valencia CF,Rayo Vallecano de Madrid,51.1,17.3,31.6,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-20,RC Celta de Vigo,FC Barcelona,45.0,23.5,31.5,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-20,CA Osasuna,Deportivo Alavés,36.9,33.1,30.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-20,Real Madrid CF,Elche CF,37.8,15.4,46.8,A,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-20,Athletic Club,RC Deportivo La Coruña,43.7,30.8,25.5,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-20,Real Racing Club de Santander,Málaga CF,44.2,29.9,25.9,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-20,Villarreal CF,Club Atlético de Madrid,47.4,16.6,36.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-20,Sevilla FC,Levante UD,54.3,23.7,22.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-04-20,RCD Espanyol de Barcelona,Real Sociedad de Fútbol,39.3,37.9,22.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-01,RC Deportivo La Coruña,Real Racing Club de Santander,44.2,29.9,25.9,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-01,RC Celta de Vigo,Sevilla FC,44.7,26.0,29.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-01,Real Sociedad de Fútbol,Athletic Club,37.9,42.3,19.8,D,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-01,FC Barcelona,CA Osasuna,43.2,37.3,19.5,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-01,Rayo Vallecano de Madrid,Villarreal CF,43.2,20.6,36.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-01,Málaga CF,Getafe CF,50.9,22.4,26.7,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-01,Real Betis Balompié,Valencia CF,40.3,21.6,38.1,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-01,Elche CF,RCD Espanyol de Barcelona,41.7,33.9,24.4,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-01,Levante UD,Real Madrid CF,33.3,27.8,38.9,A,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-01,Club Atlético de Madrid,Deportivo Alavés,36.3,29.4,34.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-08,Valencia CF,Club Atlético de Madrid,38.6,19.0,42.4,A,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-08,CA Osasuna,Real Sociedad de Fútbol,35.3,37.6,27.1,D,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-08,Deportivo Alavés,Levante UD,47.1,26.1,26.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-08,Athletic Club,Málaga CF,43.7,30.8,25.5,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-08,Real Racing Club de Santander,Sevilla FC,50.5,21.8,27.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-08,Rayo Vallecano de Madrid,RC Deportivo La Coruña,39.9,31.3,28.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-08,Real Betis Balompié,RCD Espanyol de Barcelona,37.4,31.3,31.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-08,Real Madrid CF,FC Barcelona,44.0,13.9,42.1,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-08,Getafe CF,Elche CF,41.2,22.5,36.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-08,Villarreal CF,RC Celta de Vigo,59.2,14.3,26.4,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-15,Club Atlético de Madrid,Rayo Vallecano de Madrid,44.3,26.2,29.4,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-15,Sevilla FC,Villarreal CF,45.1,29.9,25.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-15,Real Sociedad de Fútbol,FC Barcelona,33.9,27.4,38.7,A,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-15,Elche CF,Athletic Club,54.0,25.6,20.4,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-15,Málaga CF,RC Celta de Vigo,50.8,23.4,25.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-15,RC Deportivo La Coruña,Deportivo Alavés,45.5,25.2,29.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-15,Levante UD,Getafe CF,34.3,23.8,41.9,A,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-15,RCD Espanyol de Barcelona,Valencia CF,33.4,37.7,28.9,D,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-15,Real Madrid CF,Real Racing Club de Santander,49.4,21.3,29.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-15,CA Osasuna,Real Betis Balompié,34.8,32.3,32.9,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-22,Club Atlético de Madrid,Athletic Club,47.2,30.6,22.2,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-22,Deportivo Alavés,Real Madrid CF,38.3,29.3,32.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-22,Sevilla FC,Getafe CF,43.1,29.3,27.6,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-22,Villarreal CF,CA Osasuna,47.4,29.0,23.5,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-22,Real Racing Club de Santander,Levante UD,51.0,18.4,30.6,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-22,RC Deportivo La Coruña,RCD Espanyol de Barcelona,41.4,38.1,20.5,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-22,Rayo Vallecano de Madrid,Real Betis Balompié,39.6,30.5,30.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-22,FC Barcelona,Málaga CF,51.7,20.9,27.5,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-22,Valencia CF,Elche CF,41.4,15.7,42.9,A,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-22,RC Celta de Vigo,Real Sociedad de Fútbol,28.7,52.7,18.6,D,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-29,Levante UD,RC Celta de Vigo,40.6,22.7,36.7,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-29,Real Madrid CF,RC Deportivo La Coruña,49.4,21.3,29.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-29,Real Betis Balompié,Club Atlético de Madrid,36.8,21.7,41.5,A,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-29,Real Sociedad de Fútbol,Villarreal CF,33.4,31.6,35.0,A,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-29,Málaga CF,Sevilla FC,50.5,21.8,27.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-29,Elche CF,Real Racing Club de Santander,42.8,25.9,31.3,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-29,Athletic Club,Rayo Vallecano de Madrid,40.6,31.6,27.8,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-29,RCD Espanyol de Barcelona,Deportivo Alavés,34.8,34.2,31.0,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-29,Getafe CF,FC Barcelona,49.9,17.2,32.9,H,,,ensemble_v1
+2026-08-11 07:42:13,2027-05-29,CA Osasuna,Valencia CF,38.2,33.6,28.2,H,,,ensemble_v1
