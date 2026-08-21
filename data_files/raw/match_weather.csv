@@ -1,15 +1,14 @@
 Date,HomeTeam,WeatherDesc,TempMaxC,PrecipMM,WindKmh
-2026-08-20,Rayo Vallecano de Madrid,Partly cloudy,31.0,0.0,21.1
 2026-08-21,Real Betis Balompié,N/A,,,
 2026-08-22,Athletic Club,N/A,,,
-2026-08-22,Valencia CF,Partly cloudy,28.7,1.0,15.5
+2026-08-22,Valencia CF,Showers,28.7,0.8,14.5
 2026-08-22,RCD Espanyol de Barcelona,N/A,,,
 2026-08-23,Club Atlético de Madrid,N/A,,,
-2026-08-23,Getafe CF,Partly cloudy,32.3,0.0,14.0
+2026-08-23,Getafe CF,Partly cloudy,33.0,0.0,15.8
 2026-08-23,Elche CF,N/A,,,
 2026-08-24,CA Osasuna,N/A,,,
 2026-08-24,Málaga CF,N/A,,,
-2026-08-25,Valencia CF,Partly cloudy,34.4,0.0,19.6
+2026-08-25,Valencia CF,Partly cloudy,35.0,0.0,15.3
 2026-08-26,Real Madrid CF,N/A,,,
 2026-08-27,RC Celta de Vigo,N/A,,,
 2026-08-27,FC Barcelona,N/A,,,
@@ -17,7 +16,7 @@ Date,HomeTeam,WeatherDesc,TempMaxC,PrecipMM,WindKmh
 2026-08-28,Deportivo Alavés,N/A,,,
 2026-08-29,Levante UD,N/A,,,
 2026-08-29,Real Sociedad de Fútbol,N/A,,,
-2026-08-29,Sevilla FC,Clear,35.5,0.0,11.9
+2026-08-29,Sevilla FC,Clear,35.2,0.0,8.9
 2026-08-30,Real Madrid CF,N/A,,,
 2026-08-30,RC Deportivo La Coruña,N/A,,,
 2026-08-30,RC Celta de Vigo,N/A,,,
@@ -26,8 +25,8 @@ Date,HomeTeam,WeatherDesc,TempMaxC,PrecipMM,WindKmh
 2026-09-03,Real Sociedad de Fútbol,N/A,,,
 2026-09-04,Real Betis Balompié,N/A,,,
 2026-09-05,Athletic Club,N/A,,,
-2026-09-05,Rayo Vallecano de Madrid,N/A,,,
-2026-09-05,Villarreal CF,N/A,,,
+2026-09-05,Rayo Vallecano de Madrid,Partly cloudy,29.4,0.0,17.7
+2026-09-05,Villarreal CF,Thunderstorm,27.4,4.5,25.4
 2026-09-06,Valencia CF,N/A,,,
 2026-09-06,Deportivo Alavés,N/A,,,
 2026-09-06,Málaga CF,N/A,,,
