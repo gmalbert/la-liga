@@ -1,25 +1,26 @@
 Date,HomeTeam,AwayTeam,Bookmaker,HomeWinOdds,DrawOdds,AwayWinOdds,ImpliedProb_HomeWin,ImpliedProb_Draw,ImpliedProb_AwayWin,BookmakerMargin
-2026-08-29,Levante,Real Betis,pinnacle,3.48,3.4,2.21,0.2779,0.2845,0.4376,3.4
-2026-08-29,Levante,Real Betis,draftkings,3.35,3.4,2.2,0.2851,0.2809,0.4341,4.72
-2026-08-29,Levante,Real Betis,betmgm,3.2,3.4,2.2,0.2945,0.2772,0.4283,6.12
-2026-08-29,Real Sociedad,Espanyol,pinnacle,1.83,3.82,4.42,0.5282,0.2531,0.2187,3.45
-2026-08-29,Real Sociedad,Espanyol,draftkings,1.8,3.8,4.4,0.5311,0.2516,0.2173,4.6
-2026-08-29,Real Sociedad,Espanyol,betmgm,1.83,3.7,4.2,0.5181,0.2562,0.2257,5.48
-2026-08-29,Sevilla,Atlético Madrid,pinnacle,4.16,3.46,1.98,0.2324,0.2794,0.4882,3.45
-2026-08-29,Sevilla,Atlético Madrid,draftkings,4.0,3.45,1.95,0.2375,0.2754,0.4872,5.27
-2026-08-29,Sevilla,Atlético Madrid,betmgm,4.0,3.3,1.98,0.2363,0.2864,0.4773,5.81
-2026-08-30,Real Madrid,Málaga,pinnacle,1.12,10.82,18.0,0.8578,0.0888,0.0534,4.08
-2026-08-30,Real Madrid,Málaga,draftkings,1.12,10.0,18.0,0.8516,0.0954,0.053,4.84
-2026-08-30,Real Madrid,Málaga,betmgm,1.14,9.25,18.0,0.8428,0.1039,0.0534,4.09
-2026-08-30,Deportivo La Coruña,Valencia,pinnacle,2.57,3.04,3.17,0.3765,0.3183,0.3052,3.35
-2026-08-30,Deportivo La Coruña,Valencia,betmgm,2.55,3.1,2.9,0.3701,0.3044,0.3254,5.96
-2026-08-30,Deportivo La Coruña,Valencia,draftkings,2.55,3.05,3.1,0.3761,0.3145,0.3094,4.26
-2026-08-30,Celta Vigo,Athletic Bilbao,pinnacle,2.47,3.31,3.06,0.3916,0.2922,0.3161,3.38
-2026-08-30,Celta Vigo,Athletic Bilbao,draftkings,2.45,3.25,3.0,0.389,0.2933,0.3177,4.92
-2026-08-30,Celta Vigo,Athletic Bilbao,betmgm,2.38,3.3,3.0,0.3977,0.2868,0.3155,5.65
-2026-08-31,CA Osasuna,Getafe,pinnacle,2.19,3.04,4.01,0.4412,0.3178,0.241,3.49
+2026-08-30,Real Madrid,Málaga,pinnacle,1.11,11.5,26.0,0.8778,0.0847,0.0375,2.63
+2026-08-30,Real Madrid,Málaga,draftkings,1.1,11.0,21.0,0.8678,0.0868,0.0455,4.76
+2026-08-30,Real Madrid,Málaga,betmgm,1.12,10.5,19.0,0.8579,0.0915,0.0506,4.07
+2026-08-30,Deportivo La Coruña,Valencia,pinnacle,2.63,3.01,3.11,0.3677,0.3213,0.311,3.4
+2026-08-30,Deportivo La Coruña,Valencia,betmgm,2.5,3.0,3.0,0.375,0.3125,0.3125,6.67
+2026-08-30,Deportivo La Coruña,Valencia,draftkings,2.6,3.0,3.05,0.3678,0.3187,0.3135,4.58
+2026-08-30,Celta Vigo,Athletic Bilbao,pinnacle,2.73,3.26,2.78,0.3547,0.297,0.3483,3.28
+2026-08-30,Celta Vigo,Athletic Bilbao,draftkings,2.7,3.2,2.75,0.3539,0.2986,0.3475,4.65
+2026-08-30,Celta Vigo,Athletic Bilbao,betmgm,2.6,3.2,2.75,0.3626,0.2946,0.3428,6.08
+2026-08-31,CA Osasuna,Getafe,pinnacle,2.21,3.0,4.03,0.4376,0.3224,0.24,3.4
 2026-08-31,CA Osasuna,Getafe,betmgm,2.2,3.0,3.75,0.431,0.3161,0.2529,5.45
-2026-08-31,CA Osasuna,Getafe,draftkings,2.2,3.05,3.85,0.4362,0.3146,0.2492,4.22
-2026-08-31,Barcelona,Rayo Vallecano,pinnacle,1.18,8.05,14.88,0.8157,0.1196,0.0647,3.89
-2026-08-31,Barcelona,Rayo Vallecano,betmgm,1.19,7.5,13.5,0.802,0.1273,0.0707,4.77
-2026-08-31,Barcelona,Rayo Vallecano,draftkings,1.18,8.0,13.0,0.8076,0.1191,0.0733,4.94
+2026-08-31,CA Osasuna,Getafe,draftkings,2.2,2.95,3.9,0.4329,0.3229,0.2442,4.99
+2026-08-31,Barcelona,Rayo Vallecano,pinnacle,1.16,8.71,16.47,0.8308,0.1107,0.0585,3.76
+2026-08-31,Barcelona,Rayo Vallecano,betmgm,1.18,8.0,14.5,0.8137,0.12,0.0662,4.14
+2026-08-31,Barcelona,Rayo Vallecano,draftkings,1.15,8.5,15.0,0.8251,0.1116,0.0633,5.39
+2026-09-03,Real Sociedad,Celta Vigo,pinnacle,2.34,3.39,3.06,0.4073,0.2812,0.3115,4.91
+2026-09-04,Real Betis,Real Madrid,pinnacle,4.78,4.34,1.62,0.1979,0.218,0.584,5.69
+2026-09-05,Athletic Bilbao,Atlético Madrid,pinnacle,2.53,3.57,2.67,0.3765,0.2668,0.3567,4.99
+2026-09-05,Rayo Vallecano,Real Racing Club de Santander,pinnacle,2.14,3.55,3.31,0.4446,0.268,0.2874,5.11
+2026-09-05,Villarreal,Deportivo La Coruña,pinnacle,1.49,4.4,6.37,0.6359,0.2153,0.1487,5.54
+2026-09-06,Valencia,Barcelona,pinnacle,6.01,4.74,1.47,0.1573,0.1995,0.6432,5.76
+2026-09-06,Alavés,CA Osasuna,pinnacle,2.28,3.05,3.52,0.4175,0.3121,0.2704,5.06
+2026-09-06,Espanyol,Sevilla,pinnacle,2.45,3.24,3.01,0.3891,0.2942,0.3167,4.9
+2026-09-07,Getafe,Celta Vigo,pinnacle,2.67,2.87,3.07,0.3571,0.3323,0.3106,4.87
+2026-09-07,Elche CF,Real Sociedad,pinnacle,2.61,3.42,2.68,0.3654,0.2788,0.3558,4.87
