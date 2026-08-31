@@ -1,34 +1,29 @@
 Date,HomeTeam,WeatherDesc,TempMaxC,PrecipMM,WindKmh
-2026-08-29,Levante UD,N/A,,,
-2026-08-29,Real Sociedad de Fútbol,N/A,,,
-2026-08-29,Sevilla FC,Partly cloudy,35.4,0.0,8.8
-2026-08-30,Real Madrid CF,N/A,,,
-2026-08-30,RC Deportivo La Coruña,N/A,,,
 2026-08-30,RC Celta de Vigo,N/A,,,
 2026-08-31,CA Osasuna,N/A,,,
 2026-08-31,FC Barcelona,N/A,,,
 2026-09-03,Real Sociedad de Fútbol,N/A,,,
 2026-09-04,Real Betis Balompié,N/A,,,
 2026-09-05,Athletic Club,N/A,,,
-2026-09-05,Rayo Vallecano de Madrid,Partly cloudy,33.2,1.2,13.5
-2026-09-05,Villarreal CF,Foggy,31.0,0.0,11.5
-2026-09-06,Valencia CF,Foggy,30.8,0.0,11.7
+2026-09-05,Rayo Vallecano de Madrid,Partly cloudy,39.0,0.0,17.8
+2026-09-05,Villarreal CF,Foggy,31.0,0.0,13.0
+2026-09-06,Valencia CF,Partly cloudy,33.1,0.0,15.7
 2026-09-06,Deportivo Alavés,N/A,,,
 2026-09-06,Málaga CF,N/A,,,
 2026-09-06,RCD Espanyol de Barcelona,N/A,,,
-2026-09-07,Getafe CF,Partly cloudy,35.2,0.0,15.2
+2026-09-07,Getafe CF,Partly cloudy,35.1,0.0,11.9
 2026-09-07,Elche CF,N/A,,,
-2026-09-12,Getafe CF,Partly cloudy,31.0,0.0,15.1
-2026-09-12,Sevilla FC,Partly cloudy,32.2,0.0,14.5
+2026-09-12,Getafe CF,Showers,19.1,8.4,13.7
+2026-09-12,Sevilla FC,Showers,25.7,5.1,17.0
 2026-09-12,Real Racing Club de Santander,N/A,,,
-2026-09-12,Villarreal CF,Rainy,28.0,1.2,17.0
+2026-09-12,Villarreal CF,Partly cloudy,30.6,0.0,17.5
 2026-09-12,RC Celta de Vigo,N/A,,,
 2026-09-12,CA Osasuna,N/A,,,
 2026-09-12,Real Sociedad de Fútbol,N/A,,,
 2026-09-12,Levante UD,N/A,,,
 2026-09-12,Athletic Club,N/A,,,
 2026-09-12,Real Madrid CF,N/A,,,
-2026-09-15,Rayo Vallecano de Madrid,N/A,,,
+2026-09-15,Rayo Vallecano de Madrid,Rainy,27.4,1.05,14.9
 2026-09-15,RC Deportivo La Coruña,N/A,,,
 2026-09-15,Deportivo Alavés,N/A,,,
 2026-09-15,Elche CF,N/A,,,
