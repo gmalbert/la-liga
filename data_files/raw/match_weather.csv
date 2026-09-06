@@ -1,24 +1,21 @@
 Date,HomeTeam,WeatherDesc,TempMaxC,PrecipMM,WindKmh
-2026-09-05,Athletic Club,N/A,,,
-2026-09-05,Rayo Vallecano de Madrid,Partly cloudy,37.2,0.0,16.9
-2026-09-05,Villarreal CF,Partly cloudy,32.9,0.0,13.8
-2026-09-06,Valencia CF,Partly cloudy,36.1,0.0,15.1
+2026-09-06,Valencia CF,Partly cloudy,35.3,0.0,12.7
 2026-09-06,Deportivo Alavés,N/A,,,
 2026-09-06,Málaga CF,N/A,,,
 2026-09-06,RCD Espanyol de Barcelona,N/A,,,
-2026-09-07,Getafe CF,Partly cloudy,36.8,0.0,13.5
+2026-09-07,Getafe CF,Partly cloudy,36.4,0.0,8.7
 2026-09-07,Elche CF,N/A,,,
-2026-09-11,Sevilla FC,Clear,38.8,0.0,14.8
+2026-09-11,Sevilla FC,Clear,37.0,0.0,8.7
 2026-09-12,Real Racing Club de Santander,N/A,,,
 2026-09-12,CA Osasuna,N/A,,,
 2026-09-12,Athletic Club,N/A,,,
 2026-09-12,Real Madrid CF,N/A,,,
 2026-09-13,RC Celta de Vigo,N/A,,,
 2026-09-13,Levante UD,N/A,,,
-2026-09-13,Getafe CF,Partly cloudy,34.2,0.0,6.4
+2026-09-13,Getafe CF,Partly cloudy,30.9,0.0,12.7
 2026-09-13,Real Sociedad de Fútbol,N/A,,,
-2026-09-14,Villarreal CF,Partly cloudy,30.0,0.0,13.5
-2026-09-15,Rayo Vallecano de Madrid,Clear,31.4,0.0,15.3
+2026-09-14,Villarreal CF,Clear,29.7,0.0,12.6
+2026-09-15,Rayo Vallecano de Madrid,Clear,33.5,0.0,13.5
 2026-09-15,Deportivo Alavés,N/A,,,
 2026-09-15,Elche CF,N/A,,,
 2026-09-16,RC Deportivo La Coruña,N/A,,,
@@ -31,12 +28,12 @@ Date,HomeTeam,WeatherDesc,TempMaxC,PrecipMM,WindKmh
 2026-09-19,CA Osasuna,N/A,,,
 2026-09-19,Athletic Club,N/A,,,
 2026-09-19,RC Celta de Vigo,N/A,,,
-2026-09-19,Sevilla FC,Rainy,33.0,3.3,21.6
-2026-09-20,Getafe CF,Rainy,25.0,1.5,15.8
+2026-09-19,Sevilla FC,Partly cloudy,34.5,0.0,8.0
+2026-09-20,Getafe CF,Partly cloudy,28.5,0.0,16.0
 2026-09-20,Club Atlético de Madrid,N/A,,,
 2026-09-20,RC Deportivo La Coruña,N/A,,,
-2026-09-20,Villarreal CF,Showers,23.2,12.3,8.0
-2026-09-20,Valencia CF,Showers,22.1,17.1,14.3
+2026-09-20,Villarreal CF,Rainy,27.5,0.45,20.2
+2026-09-20,Valencia CF,N/A,,,
 2026-10-10,Rayo Vallecano de Madrid,N/A,,,
 2026-10-10,Deportivo Alavés,N/A,,,
 2026-10-10,FC Barcelona,N/A,,,
