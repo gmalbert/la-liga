@@ -1,42 +1,49 @@
 Date,HomeTeam,AwayTeam,Bookmaker,HomeWinOdds,DrawOdds,AwayWinOdds,ImpliedProb_HomeWin,ImpliedProb_Draw,ImpliedProb_AwayWin,BookmakerMargin
-2026-09-11,Sevilla,Valencia,betmgm,2.3,3.2,3.3,0.414,0.2975,0.2885,5.03
-2026-09-11,Sevilla,Valencia,pinnacle,2.2,3.23,3.71,0.4397,0.2995,0.2608,3.37
-2026-09-11,Sevilla,Valencia,draftkings,2.2,3.2,3.6,0.435,0.2991,0.2659,4.48
-2026-09-12,Real Racing Club de Santander,Alavés,pinnacle,2.45,3.6,2.87,0.3946,0.2685,0.3369,3.44
-2026-09-12,Real Racing Club de Santander,Alavés,betmgm,2.35,3.5,2.88,0.402,0.2699,0.328,5.85
-2026-09-12,Real Racing Club de Santander,Alavés,draftkings,2.4,3.5,2.75,0.3909,0.268,0.3411,6.6
+2026-09-11,Sevilla,Valencia,betmgm,2.2,3.2,3.4,0.4283,0.2945,0.2772,6.12
+2026-09-11,Sevilla,Valencia,pinnacle,2.14,3.24,3.86,0.4515,0.2982,0.2503,3.5
+2026-09-11,Sevilla,Valencia,draftkings,2.15,3.2,3.7,0.4439,0.2982,0.2579,4.79
+2026-09-12,Real Racing Club de Santander,Alavés,pinnacle,2.47,3.59,2.86,0.3919,0.2696,0.3385,3.31
+2026-09-12,Real Racing Club de Santander,Alavés,betmgm,2.45,3.5,2.75,0.386,0.2702,0.3439,5.75
+2026-09-12,Real Racing Club de Santander,Alavés,draftkings,2.45,3.55,2.8,0.3898,0.269,0.3411,4.7
 2026-09-12,CA Osasuna,Espanyol,pinnacle,2.16,3.35,3.68,0.4481,0.2889,0.263,3.32
-2026-09-12,CA Osasuna,Espanyol,betmgm,2.05,3.25,3.8,0.4608,0.2906,0.2486,5.87
-2026-09-12,CA Osasuna,Espanyol,draftkings,2.1,3.25,3.6,0.4485,0.2898,0.2616,6.17
-2026-09-12,Athletic Bilbao,Elche CF,pinnacle,1.43,5.07,7.14,0.6746,0.1903,0.1351,3.66
-2026-09-12,Athletic Bilbao,Elche CF,betmgm,1.43,4.75,7.0,0.6643,0.2,0.1357,5.27
+2026-09-12,CA Osasuna,Espanyol,betmgm,2.15,3.25,3.5,0.4394,0.2907,0.2699,5.85
+2026-09-12,CA Osasuna,Espanyol,draftkings,2.1,3.3,3.65,0.4521,0.2877,0.2601,5.32
+2026-09-12,Athletic Bilbao,Elche CF,pinnacle,1.41,5.19,7.38,0.6837,0.1857,0.1306,3.74
+2026-09-12,Athletic Bilbao,Elche CF,betmgm,1.43,4.8,7.0,0.6657,0.1983,0.136,5.05
 2026-09-12,Athletic Bilbao,Elche CF,draftkings,1.42,4.9,7.0,0.6699,0.1941,0.1359,5.12
-2026-09-12,Real Madrid,Rayo Vallecano,pinnacle,1.13,9.68,21.07,0.8544,0.0997,0.0458,3.57
-2026-09-12,Real Madrid,Rayo Vallecano,draftkings,1.12,9.0,18.0,0.8427,0.1049,0.0524,5.95
-2026-09-12,Real Madrid,Rayo Vallecano,betmgm,1.14,8.75,17.5,0.8365,0.109,0.0545,4.86
+2026-09-12,Real Madrid,Rayo Vallecano,pinnacle,1.12,9.8,21.28,0.857,0.0979,0.0451,4.19
+2026-09-12,Real Madrid,Rayo Vallecano,draftkings,1.13,9.5,18.0,0.8462,0.1007,0.0531,4.58
+2026-09-12,Real Madrid,Rayo Vallecano,betmgm,1.14,9.0,18.0,0.8403,0.1064,0.0532,4.39
 2026-09-13,Celta Vigo,Málaga,betmgm,1.71,3.7,4.8,0.5499,0.2542,0.1959,6.34
-2026-09-13,Celta Vigo,Málaga,pinnacle,1.71,3.86,5.21,0.5646,0.2501,0.1853,3.58
-2026-09-13,Celta Vigo,Málaga,draftkings,1.71,3.75,4.9,0.554,0.2526,0.1933,5.55
-2026-09-13,Levante,Barcelona,betmgm,11.0,7.5,1.22,0.0871,0.1277,0.7852,4.39
-2026-09-13,Levante,Barcelona,pinnacle,12.88,8.25,1.19,0.0747,0.1166,0.8086,3.92
-2026-09-13,Levante,Barcelona,draftkings,11.0,7.5,1.19,0.0854,0.1252,0.7894,6.46
-2026-09-13,Getafe,Deportivo La Coruña,betmgm,2.4,2.85,3.4,0.3925,0.3305,0.277,6.17
-2026-09-13,Getafe,Deportivo La Coruña,pinnacle,2.48,2.85,3.58,0.3902,0.3395,0.2703,3.34
+2026-09-13,Celta Vigo,Málaga,pinnacle,1.74,3.75,5.17,0.5554,0.2577,0.1869,3.48
+2026-09-13,Celta Vigo,Málaga,draftkings,1.69,3.75,5.0,0.5591,0.252,0.189,5.84
+2026-09-13,Levante,Barcelona,betmgm,12.5,8.0,1.19,0.0765,0.1196,0.8039,4.53
+2026-09-13,Levante,Barcelona,pinnacle,14.05,9.17,1.16,0.0683,0.1046,0.8271,4.23
+2026-09-13,Levante,Barcelona,draftkings,12.0,8.5,1.17,0.0789,0.1114,0.8096,5.57
+2026-09-13,Getafe,Deportivo La Coruña,betmgm,2.45,2.88,3.3,0.3856,0.3281,0.2863,5.84
+2026-09-13,Getafe,Deportivo La Coruña,pinnacle,2.5,2.85,3.55,0.3874,0.3398,0.2728,3.26
 2026-09-13,Getafe,Deportivo La Coruña,draftkings,2.45,2.85,3.35,0.386,0.3318,0.2823,5.75
-2026-09-13,Real Sociedad,Atlético Madrid,betmgm,2.85,3.6,2.3,0.3299,0.2612,0.4088,6.34
-2026-09-13,Real Sociedad,Atlético Madrid,pinnacle,2.94,3.54,2.44,0.3294,0.2736,0.397,3.25
-2026-09-13,Real Sociedad,Atlético Madrid,draftkings,2.8,3.6,2.35,0.3368,0.2619,0.4013,6.05
-2026-09-14,Villarreal,Real Betis,pinnacle,1.9,4.01,3.85,0.5083,0.2408,0.2509,3.54
-2026-09-14,Villarreal,Real Betis,draftkings,1.91,3.8,3.75,0.497,0.2498,0.2532,5.34
+2026-09-13,Real Sociedad,Atlético Madrid,betmgm,2.85,3.6,2.35,0.3328,0.2635,0.4037,5.42
+2026-09-13,Real Sociedad,Atlético Madrid,pinnacle,2.93,3.53,2.45,0.3305,0.2743,0.3952,3.27
+2026-09-13,Real Sociedad,Atlético Madrid,draftkings,2.85,3.5,2.4,0.3331,0.2713,0.3956,5.33
+2026-09-14,Villarreal,Real Betis,pinnacle,1.88,4.03,3.89,0.5129,0.2393,0.2479,3.71
+2026-09-14,Villarreal,Real Betis,draftkings,1.91,3.85,3.7,0.4969,0.2465,0.2565,5.36
 2026-09-14,Villarreal,Real Betis,betmgm,1.91,3.75,3.8,0.497,0.2532,0.2498,5.34
-2026-09-15,Rayo Vallecano,Espanyol,pinnacle,1.99,3.5,3.79,0.4776,0.2716,0.2508,5.21
-2026-09-15,Rayo Vallecano,Espanyol,draftkings,2.0,3.45,3.75,0.4733,0.2743,0.2524,5.65
-2026-09-15,Alavés,Valencia,pinnacle,2.28,2.87,3.79,0.4174,0.3316,0.2511,5.09
-2026-09-15,Alavés,Valencia,draftkings,2.25,3.1,3.45,0.4205,0.3052,0.2743,5.69
-2026-09-15,Elche CF,Real Madrid,pinnacle,10.23,5.78,1.26,0.0918,0.1625,0.7456,6.44
+2026-09-15,Rayo Vallecano,Espanyol,pinnacle,1.93,3.59,3.9,0.492,0.2645,0.2435,5.31
+2026-09-15,Rayo Vallecano,Espanyol,draftkings,1.91,3.55,3.9,0.4932,0.2653,0.2415,6.17
+2026-09-15,Alavés,Valencia,pinnacle,2.17,2.91,4.06,0.4386,0.327,0.2344,5.08
+2026-09-15,Alavés,Valencia,draftkings,2.2,3.0,3.8,0.4325,0.3171,0.2504,5.1
+2026-09-15,Elche CF,Real Madrid,pinnacle,9.63,5.55,1.29,0.098,0.1701,0.7319,5.92
+2026-09-15,Elche CF,Real Madrid,draftkings,9.0,5.5,1.3,0.1046,0.1712,0.7242,6.22
 2026-09-16,Atlético Madrid,CA Osasuna,pinnacle,1.46,4.52,6.7,0.649,0.2096,0.1414,5.54
+2026-09-16,Atlético Madrid,CA Osasuna,draftkings,1.45,4.5,6.5,0.6471,0.2085,0.1444,6.57
 2026-09-16,Deportivo La Coruña,Sevilla,pinnacle,2.5,3.03,3.14,0.3815,0.3148,0.3037,4.85
+2026-09-16,Deportivo La Coruña,Sevilla,draftkings,2.45,3.05,3.1,0.3856,0.3097,0.3047,5.86
 2026-09-16,Levante,Athletic Bilbao,pinnacle,3.17,3.46,2.24,0.3002,0.275,0.4248,5.09
-2026-09-16,Barcelona,Real Racing Club de Santander,pinnacle,1.08,12.32,20.62,0.8772,0.0769,0.0459,5.56
+2026-09-16,Levante,Athletic Bilbao,draftkings,3.15,3.45,2.25,0.3018,0.2756,0.4226,5.18
+2026-09-16,Barcelona,Real Racing Club de Santander,pinnacle,1.08,12.81,20.03,0.8786,0.0741,0.0474,5.39
+2026-09-16,Barcelona,Real Racing Club de Santander,draftkings,1.08,12.0,19.0,0.872,0.0785,0.0496,6.19
 2026-09-17,Real Betis,Getafe,pinnacle,1.85,3.39,4.6,0.5134,0.2802,0.2065,5.29
-2026-09-17,Málaga,Villarreal,pinnacle,3.75,3.53,1.99,0.2534,0.2692,0.4775,5.25
+2026-09-17,Real Betis,Getafe,draftkings,1.87,3.4,4.4,0.5063,0.2785,0.2152,5.61
+2026-09-17,Málaga,Villarreal,pinnacle,3.33,3.87,2.03,0.2856,0.2458,0.4686,5.13
+2026-09-17,Málaga,Villarreal,draftkings,3.3,3.8,2.05,0.2875,0.2497,0.4628,5.4
