@@ -9,6 +9,8 @@ from __future__ import annotations
 
 import io
 from pathlib import Path
+import time
+from urllib.parse import urlsplit, urlunsplit
 
 import pandas as pd
 import requests
@@ -30,6 +32,7 @@ SEASONS: dict[str, str] = {
 }
 
 BASE_URL = "https://www.football-data.co.uk/mmz4281/{code}/SP1.csv"
+FOOTBALL_DATA_HOSTS = ("football-data.co.uk", "www.football-data.co.uk")
 
 COLUMN_MAP: dict[str, str] = {
     "Date":   "MatchDate",
@@ -69,15 +72,46 @@ COLUMN_MAP: dict[str, str] = {
 }
 
 
+def _download_csv_text(url: str) -> str:
+    errors = []
+    for host in FOOTBALL_DATA_HOSTS:
+        parsed = urlsplit(url)
+        candidate = urlunsplit((parsed.scheme, host, parsed.path, parsed.query, parsed.fragment))
+        for attempt in range(3):
+            try:
+                resp = requests.get(
+                    candidate,
+                    headers={"Accept": "text/csv,text/plain;q=0.9,*/*;q=0.1"},
+                    timeout=20,
+                )
+                if 500 <= resp.status_code < 600 and attempt < 2:
+                    try:
+                        delay = min(max(float(resp.headers.get("Retry-After", "0.5")), 0), 5)
+                    except ValueError:
+                        delay = 0.5
+                    time.sleep(delay)
+                    continue
+                resp.raise_for_status()
+                try:
+                    text = resp.content.decode("utf-8-sig")
+                except UnicodeDecodeError:
+                    text = resp.content.decode("cp1252")
+                preview = text[:160].replace("\n", " ").strip()
+                if "<html" in preview.lower() or "<!doctype" in preview.lower():
+                    raise ValueError(f"HTML response: {preview!r}")
+                return text
+            except (requests.RequestException, UnicodeDecodeError, ValueError) as exc:
+                errors.append(f"{candidate} [attempt {attempt + 1}]: {exc}")
+                break
+    raise RuntimeError("Football-Data download failed: " + " | ".join(errors))
+
+
 def download_season(season_code: str, season_label: str) -> pd.DataFrame:
     """Download one season CSV and return a normalised DataFrame."""
     url = BASE_URL.format(code=season_code)
     try:
-        resp = requests.get(url, timeout=20)
-        resp.raise_for_status()
         df = pd.read_csv(
-            io.StringIO(resp.text),
-            encoding="latin-1",
+            io.StringIO(_download_csv_text(url)),
             on_bad_lines="skip",
         )
         df = df.rename(columns={k: v for k, v in COLUMN_MAP.items() if k in df.columns}).copy()
