@@ -1,8 +1,4 @@
 Date,Time,Matchday,HomeTeam,AwayTeam,Status
-2026-09-16,01:00 PM ET,6,RC Deportivo La Coruña,Sevilla FC,TIMED
-2026-09-16,01:00 PM ET,6,Club Atlético de Madrid,CA Osasuna,TIMED
-2026-09-16,03:30 PM ET,6,Levante UD,Athletic Club,TIMED
-2026-09-16,03:30 PM ET,6,FC Barcelona,Real Racing Club de Santander,TIMED
 2026-09-17,01:00 PM ET,6,Real Betis Balompié,Getafe CF,TIMED
 2026-09-17,03:30 PM ET,6,Málaga CF,Villarreal CF,TIMED
 2026-09-18,03:00 PM ET,7,RCD Espanyol de Barcelona,Elche CF,TIMED
@@ -25,16 +21,16 @@ Date,Time,Matchday,HomeTeam,AwayTeam,Status
 2026-10-11,12:30 PM ET,8,Real Betis Balompié,CA Osasuna,TIMED
 2026-10-11,03:00 PM ET,8,Real Racing Club de Santander,Valencia CF,TIMED
 2026-10-12,03:00 PM ET,8,Levante UD,Sevilla FC,TIMED
-2026-10-17,08:00 PM ET,9,Villarreal CF,Elche CF,SCHEDULED
-2026-10-17,08:00 PM ET,9,Real Madrid CF,Sevilla FC,SCHEDULED
-2026-10-17,08:00 PM ET,9,RCD Espanyol de Barcelona,Club Atlético de Madrid,SCHEDULED
-2026-10-17,08:00 PM ET,9,Valencia CF,Athletic Club,SCHEDULED
-2026-10-17,08:00 PM ET,9,RC Celta de Vigo,Deportivo Alavés,SCHEDULED
-2026-10-17,08:00 PM ET,9,Real Betis Balompié,FC Barcelona,SCHEDULED
-2026-10-17,08:00 PM ET,9,Málaga CF,Real Sociedad de Fútbol,SCHEDULED
-2026-10-17,08:00 PM ET,9,CA Osasuna,Real Racing Club de Santander,SCHEDULED
-2026-10-17,08:00 PM ET,9,RC Deportivo La Coruña,Levante UD,SCHEDULED
-2026-10-17,08:00 PM ET,9,Getafe CF,Rayo Vallecano de Madrid,SCHEDULED
+2026-10-16,03:00 PM ET,9,RC Deportivo La Coruña,Levante UD,TIMED
+2026-10-17,08:00 AM ET,9,RCD Espanyol de Barcelona,Club Atlético de Madrid,TIMED
+2026-10-17,10:15 AM ET,9,Villarreal CF,Elche CF,TIMED
+2026-10-17,12:30 PM ET,9,Real Betis Balompié,FC Barcelona,TIMED
+2026-10-17,03:00 PM ET,9,Valencia CF,Athletic Club,TIMED
+2026-10-18,08:00 AM ET,9,CA Osasuna,Real Racing Club de Santander,TIMED
+2026-10-18,10:15 AM ET,9,RC Celta de Vigo,Deportivo Alavés,TIMED
+2026-10-18,12:30 PM ET,9,Málaga CF,Real Sociedad de Fútbol,TIMED
+2026-10-18,03:00 PM ET,9,Real Madrid CF,Sevilla FC,TIMED
+2026-10-19,03:00 PM ET,9,Getafe CF,Rayo Vallecano de Madrid,TIMED
 2026-10-24,08:00 PM ET,10,Rayo Vallecano de Madrid,Elche CF,SCHEDULED
 2026-10-24,08:00 PM ET,10,Deportivo Alavés,Málaga CF,SCHEDULED
 2026-10-24,08:00 PM ET,10,Athletic Club,Getafe CF,SCHEDULED
