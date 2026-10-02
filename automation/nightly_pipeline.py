@@ -26,14 +26,17 @@ STEPS: list[tuple[str, list[str], bool]] = [
     # (label, command, requires_odds_api)
     ("Fetch historical CSVs",       ["python", "fetch_historical_csvs.py"],   False),
     ("Fetch upcoming fixtures",     ["python", "fetch_upcoming_fixtures.py"], False),
+    ("PitchAPI daily", ["python", "-m", "pitch_oracle_core.pitchapi.pipeline", "daily", "--league", "laliga", "--historical-file", "pitchapi_historical_features.csv"], False),
     ("Fetch xG proxy",              ["python", "fetch_fbref_xg.py"],          False),
     ("Fetch Copa fixtures",         ["python", "fetch_copa_fixtures.py"],     False),
     ("Fetch bookmaker odds",        ["python", "fetch_odds.py", "--force"],   True),
     ("Fetch weather forecasts",     ["python", "fetch_weather_data.py"],      False),
     ("Prepare model features",      ["python", "prepare_model_data.py"],      False),
     ("Train models",                ["python", "train_models.py"],            False),
+    ("PitchAPI train", ["python", "-m", "pitch_oracle_core.pitchapi.pipeline", "train", "--league", "laliga", "--historical-file", "pitchapi_historical_features.csv"], False),
     ("Run historical backtest",     ["python", "backtest.py"],                False),
     ("Pre-generate predictions",    ["python", "automation/generate_predictions.py"], False),
+    ("PitchAPI hourly", ["python", "-m", "pitch_oracle_core.pitchapi.pipeline", "hourly", "--league", "laliga", "--historical-file", "pitchapi_historical_features.csv"], False),
     ("Validate prediction log",     ["python", "track_predictions.py", "--validate"], False),
 ]
 

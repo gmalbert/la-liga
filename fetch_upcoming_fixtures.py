@@ -12,7 +12,7 @@ Requires:
 from __future__ import annotations
 
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 import pandas as pd
@@ -69,12 +69,18 @@ def fetch_upcoming_pd_fixtures(season: int | None = None) -> pd.DataFrame:
     resp.raise_for_status()
     matches = resp.json().get("matches", [])
 
+    observed_at = datetime.now(timezone.utc).isoformat()
     et = pytz.timezone("America/New_York")
     rows = []
     for m in matches:
         utc_dt = datetime.fromisoformat(m["utcDate"].replace("Z", "+00:00"))
         et_dt = utc_dt.astimezone(et)
         rows.append({
+            "fixture_id": "laliga:football-data:" + str(m["id"]),
+            "provider_event_id": str(m["id"]),
+            "source": "football-data.org",
+            "observed_at": observed_at,
+            "kickoff_utc": utc_dt.isoformat(),
             "Date":      et_dt.strftime("%Y-%m-%d"),
             "Time":      et_dt.strftime("%I:%M %p ET"),
             "Matchday":  m.get("matchday"),

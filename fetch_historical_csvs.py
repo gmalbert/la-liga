@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import io
 from pathlib import Path
+from datetime import date
 import time
 from urllib.parse import urlsplit, urlunsplit
 
@@ -30,6 +31,11 @@ SEASONS: dict[str, str] = {
     "2425": "2024-25",
     "2526": "2025-26",
 }
+
+# Include the current season without requiring an annual source edit.
+_current_start = date.today().year if date.today().month >= 7 else date.today().year - 1
+for _year in range(2026, _current_start + 1):
+    SEASONS[f"{_year % 100:02d}{(_year + 1) % 100:02d}"] = f"{_year}-{(_year + 1) % 100:02d}"
 
 BASE_URL = "https://www.football-data.co.uk/mmz4281/{code}/SP1.csv"
 FOOTBALL_DATA_HOSTS = ("football-data.co.uk", "www.football-data.co.uk")
