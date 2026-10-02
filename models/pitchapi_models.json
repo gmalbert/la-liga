@@ -1,0 +1,1 @@
+{"configuration": {"enabled_families": [], "evidence_id": null, "league_key": "laliga", "version": 1}, "models": {"baseline": {"feature_count": 51, "fingerprint": "4953de956e6e2473c23a9a36a07dba2f2b80ba7463342308e7aeec84504461ab", "model_id": "pitchapi-baseline-v1"}}, "schema_version": 1}

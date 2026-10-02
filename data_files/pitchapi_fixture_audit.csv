@@ -1,0 +1,312 @@
+provider_match_id	status	home_team	away_team	kickoff_utc	candidate_count	kickoff_delta_hours	kickoff_comparison
+m_3kptBK	unmatched	Málaga	Espanyol	2026-10-09T19:00:00+00:00	0		unresolved
+m_19qggZ	mapped	Rayo Vallecano	Athletic Club	2026-10-10T12:00:00+00:00	1	0.0	exact
+m_2HMhcZ	mapped	Deportivo Alavés	Atlético Madrid	2026-10-10T14:15:00+00:00	1	0.0	exact
+m_4HSsqt	mapped	Barcelona	Getafe	2026-10-10T16:30:00+00:00	1	0.0	exact
+m_2sXiE5	mapped	Real Madrid	Villarreal	2026-10-10T19:00:00+00:00	1	0.0	exact
+m_3QSUEv	mapped	Elche	Celta Vigo	2026-10-11T12:00:00+00:00	1	0.0	exact
+m_3mQtAM	unmatched	Real Sociedad	Deportivo A Coruña	2026-10-11T14:15:00+00:00	0		unresolved
+m_3PazTX	mapped	Real Betis	Osasuna	2026-10-11T16:30:00+00:00	1	0.0	exact
+m_4RL4QY	unmatched	Racing Santander	Valencia	2026-10-11T19:00:00+00:00	0		unresolved
+m_2Nuzb0	mapped	Levante	Sevilla	2026-10-12T19:00:00+00:00	1	0.0	exact
+m_1vMG4I	unmatched	Deportivo A Coruña	Levante	2026-10-16T19:00:00+00:00	0		unresolved
+m_0MHtdh	mapped	Espanyol	Atlético Madrid	2026-10-17T12:00:00+00:00	1	0.0	exact
+m_0QudQW	mapped	Villarreal	Elche	2026-10-17T14:15:00+00:00	1	0.0	exact
+m_10CVCK	mapped	Real Betis	Barcelona	2026-10-17T16:30:00+00:00	1	0.0	exact
+m_301zqq	mapped	Valencia	Athletic Club	2026-10-17T19:00:00+00:00	1	0.0	exact
+m_2px4Ra	unmatched	Osasuna	Racing Santander	2026-10-18T12:00:00+00:00	0		unresolved
+m_2gB2TY	mapped	Celta Vigo	Deportivo Alavés	2026-10-18T14:15:00+00:00	1	0.0	exact
+m_2ow96v	unmatched	Málaga	Real Sociedad	2026-10-18T16:30:00+00:00	0		unresolved
+m_42Fvm8	mapped	Real Madrid	Sevilla	2026-10-18T19:00:00+00:00	1	0.0	exact
+m_13g2y0	mapped	Getafe	Rayo Vallecano	2026-10-19T19:00:00+00:00	1	0.0	exact
+m_0bCfNS	mapped	Levante	Athletic Club	2026-10-21T18:00:00+00:00	1	0.0	exact
+m_23U7CS	unmatched	Deportivo Alavés	Málaga	2026-10-23T19:00:00+00:00	0		unresolved
+m_2Cci0A	mapped	Rayo Vallecano	Elche	2026-10-24T12:00:00+00:00	1	0.0	exact
+m_3KxIGS	unmatched	Racing Santander	Espanyol	2026-10-24T14:15:00+00:00	0		unresolved
+m_0il15v	mapped	Valencia	Villarreal	2026-10-24T16:30:00+00:00	1	0.0	exact
+m_4X5cOZ	unmatched	Atlético Madrid	Deportivo A Coruña	2026-10-24T19:00:00+00:00	0		unresolved
+m_1PJrKk	mapped	Athletic Club	Getafe	2026-10-25T13:00:00+00:00	1	0.0	exact
+m_1Nmiaa	mapped	Celta Vigo	Real Betis	2026-10-25T15:15:00+00:00	1	0.0	exact
+m_22ay5L	mapped	Real Sociedad	Levante	2026-10-25T17:30:00+00:00	1	0.0	exact
+m_1fvtTi	mapped	Barcelona	Real Madrid	2026-10-25T20:00:00+00:00	1	0.0	exact
+m_1XOUXe	mapped	Sevilla	Osasuna	2026-10-26T20:00:00+00:00	1	0.0	exact
+m_0i0ZRd	unmatched	Villarreal	Espanyol	2026-11-01T14:00:00+00:00	0		unresolved
+m_3Zye1t	unmatched	Racing Santander	Real Madrid	2026-11-01T14:00:00+00:00	0		unresolved
+m_0LxVGC	unmatched	Levante	Atlético Madrid	2026-11-01T14:00:00+00:00	0		unresolved
+m_3CY7K4	unmatched	Getafe	Sevilla	2026-11-01T14:00:00+00:00	0		unresolved
+m_4fAP3c	unmatched	Elche	Valencia	2026-11-01T14:00:00+00:00	0		unresolved
+m_2P8d0o	unmatched	Deportivo A Coruña	Osasuna	2026-11-01T14:00:00+00:00	0		unresolved
+m_4b9xEU	unmatched	Barcelona	Deportivo Alavés	2026-11-01T14:00:00+00:00	0		unresolved
+m_34Q5mN	unmatched	Athletic Club	Real Sociedad	2026-11-01T14:00:00+00:00	0		unresolved
+m_0c2nEn	unmatched	Real Betis	Málaga	2026-11-01T14:00:00+00:00	0		unresolved
+m_4KvglU	unmatched	Rayo Vallecano	Celta Vigo	2026-11-01T14:00:00+00:00	0		unresolved
+m_3pLoZ3	unmatched	Real Sociedad	Rayo Vallecano	2026-11-08T14:00:00+00:00	0		unresolved
+m_3apOTP	unmatched	Sevilla	Deportivo Alavés	2026-11-08T14:00:00+00:00	0		unresolved
+m_3s9Uyk	unmatched	Valencia	Real Madrid	2026-11-08T14:00:00+00:00	0		unresolved
+m_4ChvE9	unmatched	Villarreal	Getafe	2026-11-08T14:00:00+00:00	0		unresolved
+m_2s2FJD	unmatched	Osasuna	Athletic Club	2026-11-08T14:00:00+00:00	0		unresolved
+m_30eKwT	unmatched	Espanyol	Deportivo A Coruña	2026-11-08T14:00:00+00:00	0		unresolved
+m_0cvasI	unmatched	Málaga	Racing Santander	2026-11-08T14:00:00+00:00	0		unresolved
+m_47KsEj	unmatched	Elche	Real Betis	2026-11-08T14:00:00+00:00	0		unresolved
+m_1wSi73	unmatched	Celta Vigo	Levante	2026-11-08T14:00:00+00:00	0		unresolved
+m_1FwCGv	unmatched	Atlético Madrid	Barcelona	2026-11-08T14:00:00+00:00	0		unresolved
+m_3JKUH6	unmatched	Rayo Vallecano	Valencia	2026-11-22T14:00:00+00:00	0		unresolved
+m_101pSt	unmatched	Real Madrid	Celta Vigo	2026-11-22T14:00:00+00:00	0		unresolved
+m_2xAkEu	unmatched	Barcelona	Villarreal	2026-11-22T14:00:00+00:00	0		unresolved
+m_4DeisY	unmatched	Sevilla	Real Betis	2026-11-22T14:00:00+00:00	0		unresolved
+m_0iaTdE	unmatched	Athletic Club	Espanyol	2026-11-22T14:00:00+00:00	0		unresolved
+m_1MrgIP	unmatched	Deportivo Alavés	Deportivo A Coruña	2026-11-22T14:00:00+00:00	0		unresolved
+m_3ZF56r	unmatched	Getafe	Atlético Madrid	2026-11-22T14:00:00+00:00	0		unresolved
+m_3jVoFq	unmatched	Levante	Elche	2026-11-22T14:00:00+00:00	0		unresolved
+m_25yFU8	unmatched	Osasuna	Málaga	2026-11-22T14:00:00+00:00	0		unresolved
+m_2WvtVu	unmatched	Racing Santander	Real Sociedad	2026-11-22T14:00:00+00:00	0		unresolved
+m_08z59s	unmatched	Real Betis	Rayo Vallecano	2026-11-29T14:00:00+00:00	0		unresolved
+m_3rnAZg	unmatched	Real Madrid	Deportivo Alavés	2026-11-29T14:00:00+00:00	0		unresolved
+m_2Yqjou	unmatched	Real Sociedad	Sevilla	2026-11-29T14:00:00+00:00	0		unresolved
+m_33dRGf	unmatched	Valencia	Osasuna	2026-11-29T14:00:00+00:00	0		unresolved
+m_3WXB3J	unmatched	Celta Vigo	Villarreal	2026-11-29T14:00:00+00:00	0		unresolved
+m_4fVjJA	unmatched	Deportivo A Coruña	Barcelona	2026-11-29T14:00:00+00:00	0		unresolved
+m_0Ug8cm	unmatched	Elche	Atlético Madrid	2026-11-29T14:00:00+00:00	0		unresolved
+m_3iTvoj	unmatched	Espanyol	Getafe	2026-11-29T14:00:00+00:00	0		unresolved
+m_3N7OsF	unmatched	Levante	Racing Santander	2026-11-29T14:00:00+00:00	0		unresolved
+m_29RFV7	unmatched	Málaga	Athletic Club	2026-11-29T14:00:00+00:00	0		unresolved
+m_3vr3oj	unmatched	Racing Santander	Deportivo A Coruña	2026-12-06T14:00:00+00:00	0		unresolved
+m_28uqzt	unmatched	Rayo Vallecano	Levante	2026-12-06T14:00:00+00:00	0		unresolved
+m_4ZGP6b	unmatched	Sevilla	Málaga	2026-12-06T14:00:00+00:00	0		unresolved
+m_1Phfld	unmatched	Villarreal	Real Sociedad	2026-12-06T14:00:00+00:00	0		unresolved
+m_01uOvF	unmatched	Athletic Club	Real Madrid	2026-12-06T14:00:00+00:00	0		unresolved
+m_2Q1o5z	unmatched	Atlético Madrid	Real Betis	2026-12-06T14:00:00+00:00	0		unresolved
+m_0ntmar	unmatched	Barcelona	Celta Vigo	2026-12-06T14:00:00+00:00	0		unresolved
+m_3lOups	unmatched	Deportivo Alavés	Espanyol	2026-12-06T14:00:00+00:00	0		unresolved
+m_0qKSVy	unmatched	Getafe	Valencia	2026-12-06T14:00:00+00:00	0		unresolved
+m_4Vrs6K	unmatched	Osasuna	Elche	2026-12-06T14:00:00+00:00	0		unresolved
+m_4NxA4l	unmatched	Real Betis	Racing Santander	2026-12-13T14:00:00+00:00	0		unresolved
+m_00Ws6m	unmatched	Atlético Madrid	Valencia	2026-12-13T14:00:00+00:00	0		unresolved
+m_3XVYnj	unmatched	Deportivo A Coruña	Athletic Club	2026-12-13T14:00:00+00:00	0		unresolved
+m_2431vy	unmatched	Elche	Sevilla	2026-12-13T14:00:00+00:00	0		unresolved
+m_0c0TBD	unmatched	Espanyol	Celta Vigo	2026-12-13T14:00:00+00:00	0		unresolved
+m_4DCoM4	unmatched	Levante	Deportivo Alavés	2026-12-13T14:00:00+00:00	0		unresolved
+m_4JNDaw	unmatched	Málaga	Barcelona	2026-12-13T14:00:00+00:00	0		unresolved
+m_0ZUVTx	unmatched	Real Madrid	Osasuna	2026-12-13T14:00:00+00:00	0		unresolved
+m_0XSCpa	unmatched	Real Sociedad	Getafe	2026-12-13T14:00:00+00:00	0		unresolved
+m_03ixj1	unmatched	Villarreal	Rayo Vallecano	2026-12-13T14:00:00+00:00	0		unresolved
+m_1mYzB9	unmatched	Deportivo A Coruña	Real Madrid	2026-12-20T14:00:00+00:00	0		unresolved
+m_2hhg1S	unmatched	Getafe	Levante	2026-12-20T14:00:00+00:00	0		unresolved
+m_0go2rn	unmatched	Osasuna	Villarreal	2026-12-20T14:00:00+00:00	0		unresolved
+m_49tcuR	unmatched	Rayo Vallecano	Málaga	2026-12-20T14:00:00+00:00	0		unresolved
+m_2xcToL	unmatched	Sevilla	Racing Santander	2026-12-20T14:00:00+00:00	0		unresolved
+m_1wATip	unmatched	Valencia	Espanyol	2026-12-20T14:00:00+00:00	0		unresolved
+m_00dgg0	unmatched	Athletic Club	Real Betis	2026-12-20T14:00:00+00:00	0		unresolved
+m_1EKkEJ	unmatched	Barcelona	Real Sociedad	2026-12-20T14:00:00+00:00	0		unresolved
+m_2loTaH	unmatched	Celta Vigo	Atlético Madrid	2026-12-20T14:00:00+00:00	0		unresolved
+m_0s01wq	unmatched	Deportivo Alavés	Elche	2026-12-20T14:00:00+00:00	0		unresolved
+m_41oN1J	unmatched	Real Madrid	Getafe	2027-01-03T14:00:00+00:00	0		unresolved
+m_2hJ54g	unmatched	Real Sociedad	Osasuna	2027-01-03T14:00:00+00:00	0		unresolved
+m_3NqFhr	unmatched	Villarreal	Sevilla	2027-01-03T14:00:00+00:00	0		unresolved
+m_43uzw6	unmatched	Celta Vigo	Deportivo A Coruña	2027-01-03T14:00:00+00:00	0		unresolved
+m_3dBKe4	unmatched	Espanyol	Barcelona	2027-01-03T14:00:00+00:00	0		unresolved
+m_1w47EE	unmatched	Levante	Valencia	2027-01-03T14:00:00+00:00	0		unresolved
+m_4c88cd	unmatched	Málaga	Elche	2027-01-03T14:00:00+00:00	0		unresolved
+m_3MKGgz	unmatched	Racing Santander	Athletic Club	2027-01-03T14:00:00+00:00	0		unresolved
+m_1kJWrV	unmatched	Rayo Vallecano	Atlético Madrid	2027-01-03T14:00:00+00:00	0		unresolved
+m_2SeNTj	unmatched	Real Betis	Deportivo Alavés	2027-01-03T14:00:00+00:00	0		unresolved
+m_26aYth	unmatched	Real Madrid	Levante	2027-01-10T14:00:00+00:00	0		unresolved
+m_4AXPmw	unmatched	Sevilla	Celta Vigo	2027-01-10T14:00:00+00:00	0		unresolved
+m_2GHWqm	unmatched	Deportivo A Coruña	Rayo Vallecano	2027-01-10T14:00:00+00:00	0		unresolved
+m_4DmIlA	unmatched	Athletic Club	Villarreal	2027-01-10T14:00:00+00:00	0		unresolved
+m_1P1IvS	unmatched	Atlético Madrid	Racing Santander	2027-01-10T14:00:00+00:00	0		unresolved
+m_4DV6zr	unmatched	Deportivo Alavés	Real Sociedad	2027-01-10T14:00:00+00:00	0		unresolved
+m_1hvriH	unmatched	Elche	Getafe	2027-01-10T14:00:00+00:00	0		unresolved
+m_0DOVbq	unmatched	Espanyol	Real Betis	2027-01-10T14:00:00+00:00	0		unresolved
+m_3Lm6Hh	unmatched	Osasuna	Barcelona	2027-01-10T14:00:00+00:00	0		unresolved
+m_2I99dH	unmatched	Valencia	Málaga	2027-01-10T14:00:00+00:00	0		unresolved
+m_1Bkol5	unmatched	Málaga	Real Madrid	2027-01-17T14:00:00+00:00	0		unresolved
+m_3AG1AD	unmatched	Atlético Madrid	Real Sociedad	2027-01-17T14:00:00+00:00	0		unresolved
+m_2Nq90L	unmatched	Barcelona	Elche	2027-01-17T14:00:00+00:00	0		unresolved
+m_2CBrQJ	unmatched	Celta Vigo	Valencia	2027-01-17T14:00:00+00:00	0		unresolved
+m_0Rm0Uj	unmatched	Getafe	Athletic Club	2027-01-17T14:00:00+00:00	0		unresolved
+m_1LJi0E	unmatched	Racing Santander	Osasuna	2027-01-17T14:00:00+00:00	0		unresolved
+m_45kc7T	unmatched	Rayo Vallecano	Sevilla	2027-01-17T14:00:00+00:00	0		unresolved
+m_3wmhQZ	unmatched	Real Betis	Deportivo A Coruña	2027-01-17T14:00:00+00:00	0		unresolved
+m_4fqXU4	unmatched	Villarreal	Deportivo Alavés	2027-01-17T14:00:00+00:00	0		unresolved
+m_44PAGh	unmatched	Levante	Espanyol	2027-01-17T14:00:00+00:00	0		unresolved
+m_0XYp77	unmatched	Getafe	Osasuna	2027-01-24T14:00:00+00:00	0		unresolved
+m_39uVx7	unmatched	Athletic Club	Levante	2027-01-24T14:00:00+00:00	0		unresolved
+m_1pLZQh	unmatched	Deportivo Alavés	Barcelona	2027-01-24T14:00:00+00:00	0		unresolved
+m_3u2krV	unmatched	Deportivo A Coruña	Atlético Madrid	2027-01-24T14:00:00+00:00	0		unresolved
+m_3aM4CL	unmatched	Elche	Rayo Vallecano	2027-01-24T14:00:00+00:00	0		unresolved
+m_1KOJHo	unmatched	Real Madrid	Real Betis	2027-01-24T14:00:00+00:00	0		unresolved
+m_1Mt7Dg	unmatched	Real Sociedad	Málaga	2027-01-24T14:00:00+00:00	0		unresolved
+m_1V0ha4	unmatched	Valencia	Sevilla	2027-01-24T14:00:00+00:00	0		unresolved
+m_3LNjAt	unmatched	Espanyol	Villarreal	2027-01-24T14:00:00+00:00	0		unresolved
+m_3C6SCr	unmatched	Racing Santander	Celta Vigo	2027-01-24T14:00:00+00:00	0		unresolved
+m_4VnRtK	unmatched	Villarreal	Racing Santander	2027-01-31T14:00:00+00:00	0		unresolved
+m_2z1Nc0	unmatched	Sevilla	Athletic Club	2027-01-31T14:00:00+00:00	0		unresolved
+m_27Zraw	unmatched	Real Betis	Elche	2027-01-31T14:00:00+00:00	0		unresolved
+m_2LhPga	unmatched	Rayo Vallecano	Real Madrid	2027-01-31T14:00:00+00:00	0		unresolved
+m_1laPAl	unmatched	Osasuna	Deportivo A Coruña	2027-01-31T14:00:00+00:00	0		unresolved
+m_1AUVYr	unmatched	Málaga	Deportivo Alavés	2027-01-31T14:00:00+00:00	0		unresolved
+m_2Ge4S8	unmatched	Celta Vigo	Getafe	2027-01-31T14:00:00+00:00	0		unresolved
+m_2pexBs	unmatched	Levante	Real Sociedad	2027-01-31T14:00:00+00:00	0		unresolved
+m_2rk6pO	unmatched	Atlético Madrid	Espanyol	2027-01-31T14:00:00+00:00	0		unresolved
+m_030r9k	unmatched	Barcelona	Valencia	2027-01-31T14:00:00+00:00	0		unresolved
+m_2PATq8	unmatched	Elche	Levante	2027-02-07T14:00:00+00:00	0		unresolved
+m_44UXjF	unmatched	Getafe	Villarreal	2027-02-07T14:00:00+00:00	0		unresolved
+m_4S82we	unmatched	Real Betis	Sevilla	2027-02-07T14:00:00+00:00	0		unresolved
+m_44JFxH	unmatched	Real Sociedad	Real Madrid	2027-02-07T14:00:00+00:00	0		unresolved
+m_0KirnC	unmatched	Valencia	Racing Santander	2027-02-07T14:00:00+00:00	0		unresolved
+m_1MhKxr	unmatched	Deportivo Alavés	Celta Vigo	2027-02-07T14:00:00+00:00	0		unresolved
+m_0fuQ35	unmatched	Barcelona	Atlético Madrid	2027-02-07T14:00:00+00:00	0		unresolved
+m_2BLMnZ	unmatched	Athletic Club	Osasuna	2027-02-07T14:00:00+00:00	0		unresolved
+m_0AFlv0	unmatched	Deportivo A Coruña	Málaga	2027-02-07T14:00:00+00:00	0		unresolved
+m_1MtzC7	unmatched	Espanyol	Rayo Vallecano	2027-02-07T14:00:00+00:00	0		unresolved
+m_1VQvac	unmatched	Villarreal	Barcelona	2027-02-14T14:00:00+00:00	0		unresolved
+m_1LD2pZ	unmatched	Celta Vigo	Rayo Vallecano	2027-02-14T14:00:00+00:00	0		unresolved
+m_3F60Uc	unmatched	Elche	Deportivo A Coruña	2027-02-14T14:00:00+00:00	0		unresolved
+m_3Noe3a	unmatched	Levante	Málaga	2027-02-14T14:00:00+00:00	0		unresolved
+m_23TpFa	unmatched	Osasuna	Atlético Madrid	2027-02-14T14:00:00+00:00	0		unresolved
+m_4Ng4Sm	unmatched	Racing Santander	Getafe	2027-02-14T14:00:00+00:00	0		unresolved
+m_0S0UwH	unmatched	Real Madrid	Athletic Club	2027-02-14T14:00:00+00:00	0		unresolved
+m_2lApLH	unmatched	Real Sociedad	Real Betis	2027-02-14T14:00:00+00:00	0		unresolved
+m_0cYpdG	unmatched	Sevilla	Espanyol	2027-02-14T14:00:00+00:00	0		unresolved
+m_2Awhko	unmatched	Valencia	Deportivo Alavés	2027-02-14T14:00:00+00:00	0		unresolved
+m_12cuu1	unmatched	Málaga	Real Betis	2027-02-21T14:00:00+00:00	0		unresolved
+m_2DitIj	unmatched	Rayo Vallecano	Getafe	2027-02-21T14:00:00+00:00	0		unresolved
+m_40fnGt	unmatched	Athletic Club	Celta Vigo	2027-02-21T14:00:00+00:00	0		unresolved
+m_2vxbYN	unmatched	Atlético Madrid	Elche	2027-02-21T14:00:00+00:00	0		unresolved
+m_14QmCT	unmatched	Villarreal	Valencia	2027-02-21T14:00:00+00:00	0		unresolved
+m_3P0PFm	unmatched	Sevilla	Real Madrid	2027-02-21T14:00:00+00:00	0		unresolved
+m_4KtzT1	unmatched	Barcelona	Levante	2027-02-21T14:00:00+00:00	0		unresolved
+m_43Q0El	unmatched	Deportivo Alavés	Racing Santander	2027-02-21T14:00:00+00:00	0		unresolved
+m_1NLXmC	unmatched	Deportivo A Coruña	Real Sociedad	2027-02-21T14:00:00+00:00	0		unresolved
+m_2EMEhH	unmatched	Espanyol	Osasuna	2027-02-21T14:00:00+00:00	0		unresolved
+m_0O8Wlk	unmatched	Athletic Club	Barcelona	2027-02-28T14:00:00+00:00	0		unresolved
+m_40WgKo	unmatched	Real Sociedad	Elche	2027-02-28T14:00:00+00:00	0		unresolved
+m_1xI3xF	unmatched	Real Madrid	Valencia	2027-02-28T14:00:00+00:00	0		unresolved
+m_46nlKH	unmatched	Real Betis	Villarreal	2027-02-28T14:00:00+00:00	0		unresolved
+m_2idKUr	unmatched	Racing Santander	Rayo Vallecano	2027-02-28T14:00:00+00:00	0		unresolved
+m_0M39r7	unmatched	Levante	Deportivo A Coruña	2027-02-28T14:00:00+00:00	0		unresolved
+m_0utLWr	unmatched	Celta Vigo	Espanyol	2027-02-28T14:00:00+00:00	0		unresolved
+m_3m0ufe	unmatched	Getafe	Deportivo Alavés	2027-02-28T14:00:00+00:00	0		unresolved
+m_024xEu	unmatched	Málaga	Atlético Madrid	2027-02-28T14:00:00+00:00	0		unresolved
+m_28rQjY	unmatched	Osasuna	Sevilla	2027-02-28T14:00:00+00:00	0		unresolved
+m_4DvVDq	unmatched	Deportivo A Coruña	Getafe	2027-03-07T14:00:00+00:00	0		unresolved
+m_2jx9IF	unmatched	Villarreal	Real Madrid	2027-03-07T14:00:00+00:00	0		unresolved
+m_0pf3Dh	unmatched	Barcelona	Real Betis	2027-03-07T14:00:00+00:00	0		unresolved
+m_14JX47	unmatched	Rayo Vallecano	Osasuna	2027-03-07T14:00:00+00:00	0		unresolved
+m_05qH8R	unmatched	Sevilla	Real Sociedad	2027-03-07T14:00:00+00:00	0		unresolved
+m_2wYkM5	unmatched	Espanyol	Racing Santander	2027-03-07T14:00:00+00:00	0		unresolved
+m_3daHnW	unmatched	Valencia	Levante	2027-03-07T14:00:00+00:00	0		unresolved
+m_1Npcfz	unmatched	Deportivo Alavés	Athletic Club	2027-03-07T14:00:00+00:00	0		unresolved
+m_0tjp1k	unmatched	Elche	Málaga	2027-03-07T14:00:00+00:00	0		unresolved
+m_1L5K2U	unmatched	Atlético Madrid	Celta Vigo	2027-03-07T14:00:00+00:00	0		unresolved
+m_0QrXfi	unmatched	Deportivo Alavés	Sevilla	2027-03-14T14:00:00+00:00	0		unresolved
+m_4GEz3P	unmatched	Elche	Villarreal	2027-03-14T14:00:00+00:00	0		unresolved
+m_4O3a26	unmatched	Getafe	Real Sociedad	2027-03-14T14:00:00+00:00	0		unresolved
+m_4LCg7z	unmatched	Málaga	Rayo Vallecano	2027-03-14T14:00:00+00:00	0		unresolved
+m_4GHDiN	unmatched	Osasuna	Celta Vigo	2027-03-14T14:00:00+00:00	0		unresolved
+m_4HWip9	unmatched	Racing Santander	Atlético Madrid	2027-03-14T14:00:00+00:00	0		unresolved
+m_4Mobaq	unmatched	Real Betis	Levante	2027-03-14T14:00:00+00:00	0		unresolved
+m_0Dl9Va	unmatched	Real Madrid	Espanyol	2027-03-14T14:00:00+00:00	0		unresolved
+m_1iYVRV	unmatched	Athletic Club	Valencia	2027-03-14T14:00:00+00:00	0		unresolved
+m_31GFpS	unmatched	Barcelona	Deportivo A Coruña	2027-03-14T14:00:00+00:00	0		unresolved
+m_3CgbrN	unmatched	Villarreal	Málaga	2027-03-21T14:00:00+00:00	0		unresolved
+m_22imyr	unmatched	Atlético Madrid	Getafe	2027-03-21T14:00:00+00:00	0		unresolved
+m_2BYIte	unmatched	Celta Vigo	Real Madrid	2027-03-21T14:00:00+00:00	0		unresolved
+m_4EmHeO	unmatched	Espanyol	Athletic Club	2027-03-21T14:00:00+00:00	0		unresolved
+m_2LJKUh	unmatched	Levante	Osasuna	2027-03-21T14:00:00+00:00	0		unresolved
+m_0Nu6UP	unmatched	Racing Santander	Real Betis	2027-03-21T14:00:00+00:00	0		unresolved
+m_4Yqsy9	unmatched	Rayo Vallecano	Barcelona	2027-03-21T14:00:00+00:00	0		unresolved
+m_0oLyov	unmatched	Real Sociedad	Deportivo Alavés	2027-03-21T14:00:00+00:00	0		unresolved
+m_3o4kS6	unmatched	Sevilla	Elche	2027-03-21T14:00:00+00:00	0		unresolved
+m_3HJvPl	unmatched	Valencia	Deportivo A Coruña	2027-03-21T14:00:00+00:00	0		unresolved
+m_1wVNhV	unmatched	Getafe	Espanyol	2027-04-04T13:00:00+00:00	0		unresolved
+m_4WHa9s	unmatched	Real Sociedad	Valencia	2027-04-04T13:00:00+00:00	0		unresolved
+m_1WrEsB	unmatched	Real Madrid	Atlético Madrid	2027-04-04T13:00:00+00:00	0		unresolved
+m_0IJM23	unmatched	Deportivo A Coruña	Villarreal	2027-04-04T13:00:00+00:00	0		unresolved
+m_2IYZZN	unmatched	Real Betis	Celta Vigo	2027-04-04T13:00:00+00:00	0		unresolved
+m_2nMUUL	unmatched	Málaga	Osasuna	2027-04-04T13:00:00+00:00	0		unresolved
+m_0EexiD	unmatched	Levante	Rayo Vallecano	2027-04-04T13:00:00+00:00	0		unresolved
+m_0x52q0	unmatched	Elche	Deportivo Alavés	2027-04-04T13:00:00+00:00	0		unresolved
+m_0XGutb	unmatched	Barcelona	Sevilla	2027-04-04T13:00:00+00:00	0		unresolved
+m_3TZamS	unmatched	Athletic Club	Racing Santander	2027-04-04T13:00:00+00:00	0		unresolved
+m_4SSRdc	unmatched	Sevilla	Deportivo A Coruña	2027-04-11T13:00:00+00:00	0		unresolved
+m_3ZpWJZ	unmatched	Valencia	Getafe	2027-04-11T13:00:00+00:00	0		unresolved
+m_4SVZPt	unmatched	Villarreal	Athletic Club	2027-04-11T13:00:00+00:00	0		unresolved
+m_10sszB	unmatched	Atlético Madrid	Levante	2027-04-11T13:00:00+00:00	0		unresolved
+m_1bM5iq	unmatched	Celta Vigo	Elche	2027-04-11T13:00:00+00:00	0		unresolved
+m_49PRZY	unmatched	Osasuna	Real Madrid	2027-04-11T13:00:00+00:00	0		unresolved
+m_2X4SIo	unmatched	Racing Santander	Barcelona	2027-04-11T13:00:00+00:00	0		unresolved
+m_0190dS	unmatched	Rayo Vallecano	Real Sociedad	2027-04-11T13:00:00+00:00	0		unresolved
+m_2SXZRF	unmatched	Deportivo Alavés	Real Betis	2027-04-11T13:00:00+00:00	0		unresolved
+m_1AaHwR	unmatched	Espanyol	Málaga	2027-04-11T13:00:00+00:00	0		unresolved
+m_1qWKzi	unmatched	Málaga	Valencia	2027-04-18T13:00:00+00:00	0		unresolved
+m_1jP2FN	unmatched	Atlético Madrid	Sevilla	2027-04-18T13:00:00+00:00	0		unresolved
+m_2xazvo	unmatched	Barcelona	Espanyol	2027-04-18T13:00:00+00:00	0		unresolved
+m_2d2FBY	unmatched	Deportivo Alavés	Rayo Vallecano	2027-04-18T13:00:00+00:00	0		unresolved
+m_2uKuGR	unmatched	Levante	Villarreal	2027-04-18T13:00:00+00:00	0		unresolved
+m_2D3spG	unmatched	Getafe	Real Madrid	2027-04-18T13:00:00+00:00	0		unresolved
+m_18aM8C	unmatched	Elche	Osasuna	2027-04-18T13:00:00+00:00	0		unresolved
+m_2azkal	unmatched	Deportivo A Coruña	Celta Vigo	2027-04-18T13:00:00+00:00	0		unresolved
+m_4W58Wd	unmatched	Real Sociedad	Racing Santander	2027-04-18T13:00:00+00:00	0		unresolved
+m_3QgHRD	unmatched	Real Betis	Athletic Club	2027-04-18T13:00:00+00:00	0		unresolved
+m_4ZxV6T	unmatched	Osasuna	Deportivo Alavés	2027-04-21T13:00:00+00:00	0		unresolved
+m_3Q40JD	unmatched	Real Madrid	Elche	2027-04-21T13:00:00+00:00	0		unresolved
+m_2iVIqd	unmatched	Sevilla	Levante	2027-04-21T13:00:00+00:00	0		unresolved
+m_2SDeGF	unmatched	Valencia	Rayo Vallecano	2027-04-21T13:00:00+00:00	0		unresolved
+m_3qSzyi	unmatched	Villarreal	Atlético Madrid	2027-04-21T13:00:00+00:00	0		unresolved
+m_3tOPdG	unmatched	Espanyol	Real Sociedad	2027-04-21T13:00:00+00:00	0		unresolved
+m_0CRDuH	unmatched	Celta Vigo	Barcelona	2027-04-21T13:00:00+00:00	0		unresolved
+m_0gANjt	unmatched	Athletic Club	Deportivo A Coruña	2027-04-21T13:00:00+00:00	0		unresolved
+m_2527Do	unmatched	Getafe	Real Betis	2027-04-21T13:00:00+00:00	0		unresolved
+m_481Ohh	unmatched	Racing Santander	Málaga	2027-04-21T13:00:00+00:00	0		unresolved
+m_4Oihav	unmatched	Málaga	Getafe	2027-05-02T13:00:00+00:00	0		unresolved
+m_3fqyq8	unmatched	Atlético Madrid	Deportivo Alavés	2027-05-02T13:00:00+00:00	0		unresolved
+m_44ag0C	unmatched	Barcelona	Osasuna	2027-05-02T13:00:00+00:00	0		unresolved
+m_2IFUXl	unmatched	Celta Vigo	Sevilla	2027-05-02T13:00:00+00:00	0		unresolved
+m_32TZdX	unmatched	Deportivo A Coruña	Racing Santander	2027-05-02T13:00:00+00:00	0		unresolved
+m_2N8Arr	unmatched	Elche	Espanyol	2027-05-02T13:00:00+00:00	0		unresolved
+m_06z8A0	unmatched	Levante	Real Madrid	2027-05-02T13:00:00+00:00	0		unresolved
+m_39Fklp	unmatched	Rayo Vallecano	Villarreal	2027-05-02T13:00:00+00:00	0		unresolved
+m_4CQK8D	unmatched	Real Betis	Valencia	2027-05-02T13:00:00+00:00	0		unresolved
+m_3lKImQ	unmatched	Real Sociedad	Athletic Club	2027-05-02T13:00:00+00:00	0		unresolved
+m_0xeBXQ	unmatched	Villarreal	Celta Vigo	2027-05-09T13:00:00+00:00	0		unresolved
+m_2aBGFK	unmatched	Athletic Club	Málaga	2027-05-09T13:00:00+00:00	0		unresolved
+m_1x0fKw	unmatched	Deportivo Alavés	Levante	2027-05-09T13:00:00+00:00	0		unresolved
+m_2wQbqi	unmatched	Getafe	Elche	2027-05-09T13:00:00+00:00	0		unresolved
+m_0tJ2Iq	unmatched	Osasuna	Real Sociedad	2027-05-09T13:00:00+00:00	0		unresolved
+m_2Z85IK	unmatched	Racing Santander	Sevilla	2027-05-09T13:00:00+00:00	0		unresolved
+m_1W9RTF	unmatched	Rayo Vallecano	Deportivo A Coruña	2027-05-09T13:00:00+00:00	0		unresolved
+m_13vgOT	unmatched	Real Betis	Espanyol	2027-05-09T13:00:00+00:00	0		unresolved
+m_3Iee8T	unmatched	Real Madrid	Barcelona	2027-05-09T13:00:00+00:00	0		unresolved
+m_4M0aA5	unmatched	Valencia	Atlético Madrid	2027-05-09T13:00:00+00:00	0		unresolved
+m_4QbklN	unmatched	Real Madrid	Racing Santander	2027-05-16T13:00:00+00:00	0		unresolved
+m_2WIbNQ	unmatched	Sevilla	Villarreal	2027-05-16T13:00:00+00:00	0		unresolved
+m_2gQ8Xz	unmatched	Real Sociedad	Barcelona	2027-05-16T13:00:00+00:00	0		unresolved
+m_4Z3ZmS	unmatched	Osasuna	Real Betis	2027-05-16T13:00:00+00:00	0		unresolved
+m_2YXixD	unmatched	Atlético Madrid	Rayo Vallecano	2027-05-16T13:00:00+00:00	0		unresolved
+m_21wDIC	unmatched	Málaga	Celta Vigo	2027-05-16T13:00:00+00:00	0		unresolved
+m_4bjzWT	unmatched	Levante	Getafe	2027-05-16T13:00:00+00:00	0		unresolved
+m_2beg7Q	unmatched	Espanyol	Valencia	2027-05-16T13:00:00+00:00	0		unresolved
+m_0uqUs8	unmatched	Deportivo A Coruña	Deportivo Alavés	2027-05-16T13:00:00+00:00	0		unresolved
+m_3WklOR	unmatched	Elche	Athletic Club	2027-05-16T13:00:00+00:00	0		unresolved
+m_3wyb2F	unmatched	Racing Santander	Levante	2027-05-23T13:00:00+00:00	0		unresolved
+m_3ezNz0	unmatched	Valencia	Elche	2027-05-23T13:00:00+00:00	0		unresolved
+m_1nFs9v	unmatched	Sevilla	Getafe	2027-05-23T13:00:00+00:00	0		unresolved
+m_4SjHRZ	unmatched	Deportivo A Coruña	Espanyol	2027-05-23T13:00:00+00:00	0		unresolved
+m_31bfqU	unmatched	Deportivo Alavés	Real Madrid	2027-05-23T13:00:00+00:00	0		unresolved
+m_1bsdWs	unmatched	Celta Vigo	Real Sociedad	2027-05-23T13:00:00+00:00	0		unresolved
+m_4Dvuww	unmatched	Barcelona	Málaga	2027-05-23T13:00:00+00:00	0		unresolved
+m_2OJG7p	unmatched	Atlético Madrid	Athletic Club	2027-05-23T13:00:00+00:00	0		unresolved
+m_1Jn19r	unmatched	Villarreal	Osasuna	2027-05-23T13:00:00+00:00	0		unresolved
+m_0t0729	unmatched	Rayo Vallecano	Real Betis	2027-05-23T13:00:00+00:00	0		unresolved
+m_3TQ6q2	outside_source_window	Espanyol	Deportivo Alavés	2027-05-30T13:00:00+00:00	0		unresolved
+m_0xEHbx	outside_source_window	Real Betis	Atlético Madrid	2027-05-30T13:00:00+00:00	0		unresolved
+m_1l0ViX	outside_source_window	Osasuna	Valencia	2027-05-30T13:00:00+00:00	0		unresolved
+m_1qJVVx	outside_source_window	Málaga	Sevilla	2027-05-30T13:00:00+00:00	0		unresolved
+m_0TENEO	outside_source_window	Levante	Celta Vigo	2027-05-30T13:00:00+00:00	0		unresolved
+m_3ECX5M	outside_source_window	Getafe	Barcelona	2027-05-30T13:00:00+00:00	0		unresolved
+m_1EpB7C	outside_source_window	Athletic Club	Rayo Vallecano	2027-05-30T13:00:00+00:00	0		unresolved
+m_3oSEl1	outside_source_window	Real Sociedad	Villarreal	2027-05-30T13:00:00+00:00	0		unresolved
+m_40h9LW	outside_source_window	Real Madrid	Deportivo A Coruña	2027-05-30T13:00:00+00:00	0		unresolved
+m_4MwrjO	outside_source_window	Elche	Racing Santander	2027-05-30T13:00:00+00:00	0		unresolved
