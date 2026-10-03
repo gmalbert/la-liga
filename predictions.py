@@ -5,6 +5,8 @@ Run with:
 """
 
 import os
+from datetime import datetime
+from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 from os import path
 
 import streamlit as st
@@ -21,36 +23,14 @@ from footer import add_betting_oracle_footer  # noqa: E402
 from themes import apply_theme  # noqa: E402
 from utils import load_upcoming_fixtures, next_match_countdown  # noqa: E402
 
-# ── Mode must be set before apply_theme() ─────────────────────────────────
-# Auto-detect from browser clock via ?hour= query param (injected by JS below).
-# Only auto-set when the user hasn't manually toggled this session.
-_hour_param = st.query_params.get("hour", None)
+# Detect the browser clock through native Streamlit context.
+_browser_timezone = getattr(st.context, "timezone", None)
+try:
+    _theme_hour = datetime.now(ZoneInfo(_browser_timezone)).hour if _browser_timezone else datetime.now().hour
+except (ZoneInfoNotFoundError, ValueError):
+    _theme_hour = datetime.now().hour
 if not st.session_state.get("dark_mode_manual", False):
-    if _hour_param is not None:
-        try:
-            _h = int(_hour_param)
-            st.session_state["dark_mode"] = not (6 <= _h < 20)
-        except ValueError:
-            st.session_state.setdefault("dark_mode", True)
-    else:
-        st.session_state.setdefault("dark_mode", True)
-
-# Always inject JS so a stale ?hour from a previous session is updated on
-# every page load. JS only does a location.replace() when the value changes.
-st.iframe(
-    """
-    <script>
-    const h = new Date().getHours();
-    const url = new URL(window.parent.location.href);
-    const existing = url.searchParams.get('hour');
-    if (existing === null || parseInt(existing, 10) !== h) {
-        url.searchParams.set('hour', h);
-        window.parent.location.replace(url.toString());
-    }
-    </script>
-    """,
-    height=10,
-)
+    st.session_state["dark_mode"] = not (6 <= _theme_hour < 20)
 
 # ── Sidebar ────────────────────────────────────────────────────────────────
 _logo = path.join("data_files", "logo.png")
@@ -71,7 +51,7 @@ if path.exists(_fix_path):
         st.sidebar.info(_cd)
 
 # Season selector — stored in session state so all pages can read it
-_seasons = ["2025-26", "2024-25", "2023-24", "2022-23", "2021-22"]
+_seasons = ["2026-27", "2025-26", "2024-25", "2023-24", "2022-23", "2021-22"]
 if "selected_season" not in st.session_state:
     st.session_state["selected_season"] = _seasons[0]
 
@@ -111,6 +91,9 @@ pg = st.navigation(
             st.Page("pages/statistics.py",      title="Statistics",           icon="📊"),
             st.Page("pages/team_deep_dive.py",  title="Team Deep Dive",       icon="🔬"),
             st.Page("pages/raw_data.py",        title="Raw Data",             icon="📁"),
+            st.Page("pages/pitchapi_match.py", title="Match analytics", icon=":material/analytics:", url_path="match-analytics"),
+            st.Page("pages/pitchapi_team.py", title="Team analytics", icon=":material/shield:", url_path="team-analytics"),
+            st.Page("pages/pitchapi_model.py", title="Feature validation", icon=":material/science:", url_path="feature-validation"),
         ],
         "💰 Betting": [
             st.Page("pages/markets.py",     title="Markets",    icon="📈"),
