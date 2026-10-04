@@ -30,16 +30,16 @@ Date,Time,Matchday,HomeTeam,AwayTeam,Status
 2026-10-25,01:30 PM ET,10,Real Sociedad de Fútbol,Levante UD,TIMED
 2026-10-25,04:00 PM ET,10,FC Barcelona,Real Madrid CF,TIMED
 2026-10-26,04:00 PM ET,10,Sevilla FC,CA Osasuna,TIMED
-2026-10-31,08:00 PM ET,11,Real Betis Balompié,Málaga CF,SCHEDULED
-2026-10-31,08:00 PM ET,11,Villarreal CF,RCD Espanyol de Barcelona,SCHEDULED
-2026-10-31,08:00 PM ET,11,Elche CF,Valencia CF,SCHEDULED
-2026-10-31,08:00 PM ET,11,Athletic Club,Real Sociedad de Fútbol,SCHEDULED
-2026-10-31,08:00 PM ET,11,Levante UD,Club Atlético de Madrid,SCHEDULED
-2026-10-31,08:00 PM ET,11,RC Deportivo La Coruña,CA Osasuna,SCHEDULED
-2026-10-31,08:00 PM ET,11,FC Barcelona,Deportivo Alavés,SCHEDULED
-2026-10-31,08:00 PM ET,11,Getafe CF,Sevilla FC,SCHEDULED
-2026-10-31,08:00 PM ET,11,Real Racing Club de Santander,Real Madrid CF,SCHEDULED
-2026-10-31,08:00 PM ET,11,Rayo Vallecano de Madrid,RC Celta de Vigo,SCHEDULED
+2026-10-30,04:00 PM ET,11,Villarreal CF,RCD Espanyol de Barcelona,TIMED
+2026-10-31,09:00 AM ET,11,Levante UD,Club Atlético de Madrid,TIMED
+2026-10-31,11:15 AM ET,11,Rayo Vallecano de Madrid,RC Celta de Vigo,TIMED
+2026-10-31,01:30 PM ET,11,Real Betis Balompié,Málaga CF,TIMED
+2026-10-31,04:00 PM ET,11,FC Barcelona,Deportivo Alavés,TIMED
+2026-11-01,08:00 AM ET,11,Getafe CF,Sevilla FC,TIMED
+2026-11-01,10:15 AM ET,11,Real Racing Club de Santander,Real Madrid CF,TIMED
+2026-11-01,12:30 PM ET,11,Elche CF,Valencia CF,TIMED
+2026-11-01,03:00 PM ET,11,Athletic Club,Real Sociedad de Fútbol,TIMED
+2026-11-02,03:00 PM ET,11,RC Deportivo La Coruña,CA Osasuna,TIMED
 2026-11-07,07:00 PM ET,12,Elche CF,Real Betis Balompié,SCHEDULED
 2026-11-07,07:00 PM ET,12,CA Osasuna,Athletic Club,SCHEDULED
 2026-11-07,07:00 PM ET,12,Sevilla FC,Deportivo Alavés,SCHEDULED
