@@ -1,29 +1,26 @@
 Date,HomeTeam,WeatherDesc,TempMaxC,PrecipMM,WindKmh
-2026-10-11,Real Sociedad de Fútbol,N/A,,,
-2026-10-11,Real Betis Balompié,N/A,,,
-2026-10-11,Real Racing Club de Santander,N/A,,,
 2026-10-12,Levante UD,N/A,,,
 2026-10-16,RC Deportivo La Coruña,N/A,,,
 2026-10-17,RCD Espanyol de Barcelona,N/A,,,
-2026-10-17,Villarreal CF,Showers,24.8,0.6,15.6
+2026-10-17,Villarreal CF,Showers,24.5,0.9,5.7
 2026-10-17,Real Betis Balompié,N/A,,,
-2026-10-17,Valencia CF,Thunderstorm,21.5,7.5,10.3
+2026-10-17,Valencia CF,Showers,23.0,2.1,8.6
 2026-10-18,CA Osasuna,N/A,,,
 2026-10-18,RC Celta de Vigo,N/A,,,
 2026-10-18,Málaga CF,N/A,,,
 2026-10-18,Real Madrid CF,N/A,,,
-2026-10-19,Getafe CF,Showers,14.4,24.9,21.3
+2026-10-19,Getafe CF,Thunderstorm,15.0,18.3,17.9
 2026-10-21,Levante UD,N/A,,,
 2026-10-23,Deportivo Alavés,N/A,,,
-2026-10-24,Rayo Vallecano de Madrid,Clear,15.7,0.0,10.0
+2026-10-24,Rayo Vallecano de Madrid,Partly cloudy,18.8,0.0,3.9
 2026-10-24,Real Racing Club de Santander,N/A,,,
-2026-10-24,Valencia CF,Partly cloudy,19.8,0.0,7.8
+2026-10-24,Valencia CF,Partly cloudy,21.4,0.0,8.4
 2026-10-24,Club Atlético de Madrid,N/A,,,
 2026-10-25,Athletic Club,N/A,,,
 2026-10-25,RC Celta de Vigo,N/A,,,
 2026-10-25,Real Sociedad de Fútbol,N/A,,,
 2026-10-25,FC Barcelona,N/A,,,
-2026-10-26,Sevilla FC,Clear,25.4,0.0,7.8
+2026-10-26,Sevilla FC,Thunderstorm,21.0,12.6,8.9
 2026-10-30,Villarreal CF,N/A,,,
 2026-10-31,Levante UD,N/A,,,
 2026-10-31,Rayo Vallecano de Madrid,N/A,,,
@@ -34,16 +31,6 @@ Date,HomeTeam,WeatherDesc,TempMaxC,PrecipMM,WindKmh
 2026-11-01,Elche CF,N/A,,,
 2026-11-01,Athletic Club,N/A,,,
 2026-11-02,RC Deportivo La Coruña,N/A,,,
-2026-11-07,Elche CF,N/A,,,
-2026-11-07,CA Osasuna,N/A,,,
-2026-11-07,Sevilla FC,N/A,,,
-2026-11-07,Valencia CF,N/A,,,
-2026-11-07,RC Celta de Vigo,N/A,,,
-2026-11-07,Real Sociedad de Fútbol,N/A,,,
-2026-11-07,Málaga CF,N/A,,,
-2026-11-07,RCD Espanyol de Barcelona,N/A,,,
-2026-11-07,Club Atlético de Madrid,N/A,,,
-2026-11-07,Villarreal CF,N/A,,,
 2026-11-21,Athletic Club,N/A,,,
 2026-11-21,FC Barcelona,N/A,,,
 2026-11-21,Real Racing Club de Santander,N/A,,,
