@@ -1,34 +1,32 @@
 Date,HomeTeam,WeatherDesc,TempMaxC,PrecipMM,WindKmh
-2026-11-06,Sevilla FC,Partly cloudy,22.9,0.0,7.3
-2026-11-07,Málaga CF,N/A,,,
 2026-11-07,RCD Espanyol de Barcelona,N/A,,,
 2026-11-07,CA Osasuna,N/A,,,
-2026-11-07,Valencia CF,Rainy,19.4,0.1,7.3
+2026-11-07,Valencia CF,Showers,19.5,0.5,9.3
 2026-11-08,Elche CF,N/A,,,
 2026-11-08,Real Sociedad de Fútbol,N/A,,,
 2026-11-08,RC Celta de Vigo,N/A,,,
-2026-11-08,Villarreal CF,Partly cloudy,20.3,0.0,9.5
+2026-11-08,Villarreal CF,Foggy,20.3,0.0,9.7
 2026-11-08,Club Atlético de Madrid,N/A,,,
 2026-11-20,Athletic Club,N/A,,,
 2026-11-21,Deportivo Alavés,N/A,,,
-2026-11-21,Rayo Vallecano de Madrid,Partly cloudy,13.4,0.0,6.9
-2026-11-21,Sevilla FC,Partly cloudy,19.5,0.0,21.5
+2026-11-21,Rayo Vallecano de Madrid,Rainy,15.1,1.2,21.3
+2026-11-21,Sevilla FC,Rainy,19.7,3.6,18.9
 2026-11-21,Real Madrid CF,N/A,,,
 2026-11-22,FC Barcelona,N/A,,,
 2026-11-22,Real Racing Club de Santander,N/A,,,
 2026-11-22,CA Osasuna,N/A,,,
-2026-11-22,Getafe CF,N/A,,,
+2026-11-22,Getafe CF,Partly cloudy,11.9,0.0,10.4
 2026-11-23,Levante UD,N/A,,,
-2026-11-28,RC Celta de Vigo,N/A,,,
-2026-11-28,Elche CF,N/A,,,
+2026-11-27,Levante UD,N/A,,,
 2026-11-28,Real Betis Balompié,N/A,,,
-2026-11-28,Valencia CF,N/A,,,
-2026-11-28,Real Madrid CF,N/A,,,
-2026-11-28,RCD Espanyol de Barcelona,N/A,,,
-2026-11-28,Real Sociedad de Fútbol,N/A,,,
-2026-11-28,Levante UD,N/A,,,
-2026-11-28,RC Deportivo La Coruña,N/A,,,
 2026-11-28,Málaga CF,N/A,,,
+2026-11-28,Elche CF,N/A,,,
+2026-11-28,Real Madrid CF,N/A,,,
+2026-11-29,Valencia CF,N/A,,,
+2026-11-29,RC Deportivo La Coruña,N/A,,,
+2026-11-29,RC Celta de Vigo,N/A,,,
+2026-11-29,Real Sociedad de Fútbol,N/A,,,
+2026-11-30,RCD Espanyol de Barcelona,N/A,,,
 2026-12-05,CA Osasuna,N/A,,,
 2026-12-05,Sevilla FC,N/A,,,
 2026-12-05,Deportivo Alavés,N/A,,,

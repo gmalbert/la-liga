@@ -1,6 +1,4 @@
 Date,Time,Matchday,HomeTeam,AwayTeam,Status
-2026-11-06,03:00 PM ET,12,Sevilla FC,Deportivo Alavés,TIMED
-2026-11-07,08:00 AM ET,12,Málaga CF,Real Racing Club de Santander,TIMED
 2026-11-07,10:15 AM ET,12,RCD Espanyol de Barcelona,RC Deportivo La Coruña,TIMED
 2026-11-07,12:30 PM ET,12,CA Osasuna,Athletic Club,TIMED
 2026-11-07,03:00 PM ET,12,Valencia CF,Real Madrid CF,TIMED
@@ -19,16 +17,16 @@ Date,Time,Matchday,HomeTeam,AwayTeam,Status
 2026-11-22,12:30 PM ET,13,CA Osasuna,Málaga CF,TIMED
 2026-11-22,03:00 PM ET,13,Getafe CF,Club Atlético de Madrid,TIMED
 2026-11-23,03:00 PM ET,13,Levante UD,Elche CF,TIMED
-2026-11-28,07:00 PM ET,14,RC Celta de Vigo,Villarreal CF,SCHEDULED
-2026-11-28,07:00 PM ET,14,Elche CF,Club Atlético de Madrid,SCHEDULED
-2026-11-28,07:00 PM ET,14,Real Betis Balompié,Rayo Vallecano de Madrid,SCHEDULED
-2026-11-28,07:00 PM ET,14,Valencia CF,CA Osasuna,SCHEDULED
-2026-11-28,07:00 PM ET,14,Real Madrid CF,Deportivo Alavés,SCHEDULED
-2026-11-28,07:00 PM ET,14,RCD Espanyol de Barcelona,Getafe CF,SCHEDULED
-2026-11-28,07:00 PM ET,14,Real Sociedad de Fútbol,Sevilla FC,SCHEDULED
-2026-11-28,07:00 PM ET,14,Levante UD,Real Racing Club de Santander,SCHEDULED
-2026-11-28,07:00 PM ET,14,RC Deportivo La Coruña,FC Barcelona,SCHEDULED
-2026-11-28,07:00 PM ET,14,Málaga CF,Athletic Club,SCHEDULED
+2026-11-27,03:00 PM ET,14,Levante UD,Real Racing Club de Santander,TIMED
+2026-11-28,08:00 AM ET,14,Real Betis Balompié,Rayo Vallecano de Madrid,TIMED
+2026-11-28,10:15 AM ET,14,Málaga CF,Athletic Club,TIMED
+2026-11-28,12:30 PM ET,14,Elche CF,Club Atlético de Madrid,TIMED
+2026-11-28,03:00 PM ET,14,Real Madrid CF,Deportivo Alavés,TIMED
+2026-11-29,08:00 AM ET,14,Valencia CF,CA Osasuna,TIMED
+2026-11-29,10:15 AM ET,14,RC Deportivo La Coruña,FC Barcelona,TIMED
+2026-11-29,12:30 PM ET,14,RC Celta de Vigo,Villarreal CF,TIMED
+2026-11-29,03:00 PM ET,14,Real Sociedad de Fútbol,Sevilla FC,TIMED
+2026-11-30,03:00 PM ET,14,RCD Espanyol de Barcelona,Getafe CF,TIMED
 2026-12-05,07:00 PM ET,15,CA Osasuna,Elche CF,SCHEDULED
 2026-12-05,07:00 PM ET,15,Sevilla FC,Málaga CF,SCHEDULED
 2026-12-05,07:00 PM ET,15,Deportivo Alavés,RCD Espanyol de Barcelona,SCHEDULED
