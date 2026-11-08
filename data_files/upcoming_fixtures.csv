@@ -1,8 +1,4 @@
 Date,Time,Matchday,HomeTeam,AwayTeam,Status
-2026-11-07,10:15 AM ET,12,RCD Espanyol de Barcelona,RC Deportivo La Coruña,TIMED
-2026-11-07,12:30 PM ET,12,CA Osasuna,Athletic Club,TIMED
-2026-11-07,03:00 PM ET,12,Valencia CF,Real Madrid CF,TIMED
-2026-11-08,08:00 AM ET,12,Elche CF,Real Betis Balompié,TIMED
 2026-11-08,10:15 AM ET,12,Real Sociedad de Fútbol,Rayo Vallecano de Madrid,TIMED
 2026-11-08,12:30 PM ET,12,RC Celta de Vigo,Levante UD,TIMED
 2026-11-08,12:30 PM ET,12,Villarreal CF,Getafe CF,TIMED
@@ -27,6 +23,8 @@ Date,Time,Matchday,HomeTeam,AwayTeam,Status
 2026-11-29,12:30 PM ET,14,RC Celta de Vigo,Villarreal CF,TIMED
 2026-11-29,03:00 PM ET,14,Real Sociedad de Fútbol,Sevilla FC,TIMED
 2026-11-30,03:00 PM ET,14,RCD Espanyol de Barcelona,Getafe CF,TIMED
+2026-12-02,01:00 PM ET,23,Real Sociedad de Fútbol,Real Madrid CF,TIMED
+2026-12-02,03:30 PM ET,23,FC Barcelona,Club Atlético de Madrid,TIMED
 2026-12-05,07:00 PM ET,15,CA Osasuna,Elche CF,SCHEDULED
 2026-12-05,07:00 PM ET,15,Sevilla FC,Málaga CF,SCHEDULED
 2026-12-05,07:00 PM ET,15,Deportivo Alavés,RCD Espanyol de Barcelona,SCHEDULED
@@ -114,9 +112,7 @@ Date,Time,Matchday,HomeTeam,AwayTeam,Status
 2027-02-06,07:00 PM ET,23,RCD Espanyol de Barcelona,Rayo Vallecano de Madrid,SCHEDULED
 2027-02-06,07:00 PM ET,23,Getafe CF,Villarreal CF,SCHEDULED
 2027-02-06,07:00 PM ET,23,RC Deportivo La Coruña,Málaga CF,SCHEDULED
-2027-02-06,07:00 PM ET,23,Real Sociedad de Fútbol,Real Madrid CF,SCHEDULED
 2027-02-06,07:00 PM ET,23,Valencia CF,Real Racing Club de Santander,SCHEDULED
-2027-02-06,07:00 PM ET,23,FC Barcelona,Club Atlético de Madrid,SCHEDULED
 2027-02-13,07:00 PM ET,24,Sevilla FC,RCD Espanyol de Barcelona,SCHEDULED
 2027-02-13,07:00 PM ET,24,CA Osasuna,Club Atlético de Madrid,SCHEDULED
 2027-02-13,07:00 PM ET,24,RC Celta de Vigo,Rayo Vallecano de Madrid,SCHEDULED
