@@ -1,9 +1,9 @@
 Date,HomeTeam,AwayTeam,Bookmaker,HomeWinOdds,DrawOdds,AwayWinOdds,ImpliedProb_HomeWin,ImpliedProb_Draw,ImpliedProb_AwayWin,BookmakerMargin
 2026-11-20,Athletic Bilbao,Espanyol,pinnacle,1.49,4.53,6.78,0.6457,0.2124,0.1419,3.94
-2026-11-20,Athletic Bilbao,Espanyol,draftkings,1.48,4.3,6.5,0.6362,0.219,0.1449,6.21
+2026-11-20,Athletic Bilbao,Espanyol,draftkings,1.49,4.3,6.5,0.6346,0.2199,0.1455,5.75
 2026-11-20,Athletic Bilbao,Espanyol,betmgm,1.5,4.33,6.5,0.634,0.2196,0.1463,5.15
-2026-11-21,Alavés,Deportivo La Coruña,pinnacle,2.13,3.48,3.59,0.4534,0.2775,0.269,3.54
-2026-11-21,Alavés,Deportivo La Coruña,draftkings,2.05,3.4,3.5,0.4569,0.2755,0.2676,6.76
+2026-11-21,Alavés,Deportivo La Coruña,pinnacle,2.14,3.47,3.57,0.4512,0.2783,0.2705,3.56
+2026-11-21,Alavés,Deportivo La Coruña,draftkings,2.05,3.4,3.55,0.4586,0.2765,0.2648,6.36
 2026-11-21,Alavés,Deportivo La Coruña,betmgm,2.1,3.3,3.5,0.4472,0.2846,0.2683,6.49
 2026-11-21,Rayo Vallecano,Valencia,pinnacle,1.96,3.55,4.07,0.4917,0.2715,0.2368,3.76
 2026-11-21,Rayo Vallecano,Valencia,draftkings,1.95,3.4,3.75,0.4777,0.274,0.2484,7.36
@@ -11,10 +11,10 @@ Date,HomeTeam,AwayTeam,Bookmaker,HomeWinOdds,DrawOdds,AwayWinOdds,ImpliedProb_Ho
 2026-11-21,Sevilla,Real Betis,pinnacle,3.12,3.61,2.28,0.3093,0.2674,0.4233,3.61
 2026-11-21,Sevilla,Real Betis,draftkings,3.0,3.5,2.2,0.3105,0.2661,0.4234,7.36
 2026-11-21,Sevilla,Real Betis,betmgm,3.1,3.5,2.2,0.3035,0.2688,0.4277,6.28
-2026-11-21,Real Madrid,Celta Vigo,pinnacle,1.21,6.92,13.81,0.7921,0.1385,0.0694,4.34
-2026-11-21,Real Madrid,Celta Vigo,draftkings,1.2,6.5,11.0,0.773,0.1427,0.0843,7.81
+2026-11-21,Real Madrid,Celta Vigo,pinnacle,1.21,6.93,13.83,0.7923,0.1383,0.0693,4.31
+2026-11-21,Real Madrid,Celta Vigo,draftkings,1.2,6.5,12.0,0.7784,0.1437,0.0778,7.05
 2026-11-21,Real Madrid,Celta Vigo,betmgm,1.21,7.25,12.0,0.7888,0.1316,0.0795,4.77
-2026-11-22,Barcelona,Villarreal,pinnacle,1.23,6.11,10.07,0.7556,0.1521,0.0923,7.6
+2026-11-22,Barcelona,Villarreal,pinnacle,1.23,6.12,10.12,0.7561,0.152,0.0919,7.52
 2026-11-22,Barcelona,Villarreal,draftkings,1.24,6.5,9.5,0.7568,0.1444,0.0988,6.56
 2026-11-22,Barcelona,Villarreal,betmgm,1.27,7.0,9.0,0.7561,0.1372,0.1067,4.14
 2026-11-22,Real Racing Club de Santander,Real Sociedad,pinnacle,3.21,4.06,2.08,0.2999,0.2372,0.4629,3.86
@@ -24,8 +24,8 @@ Date,HomeTeam,AwayTeam,Bookmaker,HomeWinOdds,DrawOdds,AwayWinOdds,ImpliedProb_Ho
 2026-11-22,CA Osasuna,Málaga,draftkings,1.74,3.7,4.5,0.5385,0.2533,0.2082,6.72
 2026-11-22,CA Osasuna,Málaga,betmgm,1.77,3.7,4.5,0.5343,0.2556,0.2101,5.75
 2026-11-22,Getafe,Atlético Madrid,pinnacle,5.77,4.02,1.62,0.1667,0.2393,0.5939,3.94
-2026-11-22,Getafe,Atlético Madrid,draftkings,5.5,3.8,1.61,0.1705,0.2468,0.5826,6.61
-2026-11-22,Getafe,Atlético Madrid,betmgm,5.5,3.7,1.65,0.1718,0.2554,0.5728,5.81
+2026-11-22,Getafe,Atlético Madrid,draftkings,5.5,3.85,1.59,0.1698,0.2426,0.5875,7.05
+2026-11-22,Getafe,Atlético Madrid,betmgm,5.75,3.8,1.61,0.1643,0.2487,0.587,5.82
 2026-11-23,Levante,Elche CF,pinnacle,2.18,3.76,3.2,0.4423,0.2564,0.3013,3.72
 2026-11-23,Levante,Elche CF,draftkings,2.15,3.6,3.1,0.4365,0.2607,0.3028,6.55
 2026-11-23,Levante,Elche CF,betmgm,2.15,3.6,3.2,0.4407,0.2632,0.2961,5.54
