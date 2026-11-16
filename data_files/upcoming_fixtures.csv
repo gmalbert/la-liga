@@ -21,16 +21,14 @@ Date,Time,Matchday,HomeTeam,AwayTeam,Status
 2026-11-30,03:00 PM ET,14,RCD Espanyol de Barcelona,Getafe CF,TIMED
 2026-12-02,01:00 PM ET,23,Real Sociedad de Fútbol,Real Madrid CF,TIMED
 2026-12-02,03:30 PM ET,23,FC Barcelona,Club Atlético de Madrid,TIMED
-2026-12-05,07:00 PM ET,15,CA Osasuna,Elche CF,SCHEDULED
-2026-12-05,07:00 PM ET,15,Sevilla FC,Málaga CF,SCHEDULED
-2026-12-05,07:00 PM ET,15,Deportivo Alavés,RCD Espanyol de Barcelona,SCHEDULED
-2026-12-05,07:00 PM ET,15,Club Atlético de Madrid,Real Betis Balompié,SCHEDULED
-2026-12-05,07:00 PM ET,15,Real Racing Club de Santander,RC Deportivo La Coruña,SCHEDULED
-2026-12-05,07:00 PM ET,15,FC Barcelona,RC Celta de Vigo,SCHEDULED
-2026-12-05,07:00 PM ET,15,Getafe CF,Valencia CF,SCHEDULED
-2026-12-05,07:00 PM ET,15,Athletic Club,Real Madrid CF,SCHEDULED
-2026-12-05,07:00 PM ET,15,Villarreal CF,Real Sociedad de Fútbol,SCHEDULED
-2026-12-05,07:00 PM ET,15,Rayo Vallecano de Madrid,Levante UD,SCHEDULED
+2026-12-04,03:00 PM ET,15,Deportivo Alavés,RCD Espanyol de Barcelona,TIMED
+2026-12-05,08:00 AM ET,15,Real Racing Club de Santander,RC Deportivo La Coruña,TIMED
+2026-12-05,10:15 AM ET,15,Rayo Vallecano de Madrid,Levante UD,TIMED
+2026-12-05,12:30 PM ET,15,Villarreal CF,Real Sociedad de Fútbol,TIMED
+2026-12-05,03:00 PM ET,15,FC Barcelona,RC Celta de Vigo,TIMED
+2026-12-06,08:00 AM ET,15,CA Osasuna,Elche CF,TIMED
+2026-12-06,10:15 AM ET,15,Athletic Club,Real Madrid CF,TIMED
+2026-12-06,12:30 PM ET,15,Getafe CF,Valencia CF,TIMED
 2026-12-12,07:00 PM ET,16,RCD Espanyol de Barcelona,RC Celta de Vigo,SCHEDULED
 2026-12-12,07:00 PM ET,16,Málaga CF,FC Barcelona,SCHEDULED
 2026-12-12,07:00 PM ET,16,Real Madrid CF,CA Osasuna,SCHEDULED
