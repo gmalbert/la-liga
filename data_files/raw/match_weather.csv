@@ -1,14 +1,11 @@
 Date,HomeTeam,WeatherDesc,TempMaxC,PrecipMM,WindKmh
-2026-11-22,Real Racing Club de Santander,N/A,,,
-2026-11-22,CA Osasuna,N/A,,,
-2026-11-22,Getafe CF,Rainy,14.1,0.1,16.5
 2026-11-23,Levante UD,N/A,,,
 2026-11-27,Levante UD,N/A,,,
 2026-11-28,Real Betis Balompié,N/A,,,
 2026-11-28,Málaga CF,N/A,,,
 2026-11-28,Elche CF,N/A,,,
 2026-11-28,Real Madrid CF,N/A,,,
-2026-11-29,Valencia CF,Partly cloudy,17.1,0.0,9.0
+2026-11-29,Valencia CF,Partly cloudy,17.8,0.0,7.3
 2026-11-29,RC Deportivo La Coruña,N/A,,,
 2026-11-29,RC Celta de Vigo,N/A,,,
 2026-11-29,Real Sociedad de Fútbol,N/A,,,
@@ -17,24 +14,14 @@ Date,HomeTeam,WeatherDesc,TempMaxC,PrecipMM,WindKmh
 2026-12-02,FC Barcelona,N/A,,,
 2026-12-04,Deportivo Alavés,N/A,,,
 2026-12-05,Real Racing Club de Santander,N/A,,,
-2026-12-05,Rayo Vallecano de Madrid,Foggy,9.5,0.0,9.9
-2026-12-05,Villarreal CF,Partly cloudy,16.7,0.0,8.2
+2026-12-05,Rayo Vallecano de Madrid,Partly cloudy,14.4,0.0,7.8
+2026-12-05,Villarreal CF,Clear,16.5,0.0,8.9
 2026-12-05,FC Barcelona,N/A,,,
 2026-12-06,CA Osasuna,N/A,,,
 2026-12-06,Athletic Club,N/A,,,
-2026-12-06,Getafe CF,Foggy,11.7,0.0,10.0
+2026-12-06,Getafe CF,Clear,12.8,0.0,9.3
 2026-12-06,Club Atlético de Madrid,N/A,,,
-2026-12-07,Sevilla FC,Partly cloudy,19.6,0.0,17.6
-2026-12-12,RCD Espanyol de Barcelona,N/A,,,
-2026-12-12,Málaga CF,N/A,,,
-2026-12-12,Real Madrid CF,N/A,,,
-2026-12-12,RC Deportivo La Coruña,N/A,,,
-2026-12-12,Levante UD,N/A,,,
-2026-12-12,Elche CF,N/A,,,
-2026-12-12,Villarreal CF,N/A,,,
-2026-12-12,Real Betis Balompié,N/A,,,
-2026-12-12,Real Sociedad de Fútbol,N/A,,,
-2026-12-12,Club Atlético de Madrid,N/A,,,
+2026-12-07,Sevilla FC,Clear,17.1,0.0,8.6
 2026-12-19,Athletic Club,N/A,,,
 2026-12-19,Getafe CF,N/A,,,
 2026-12-19,Deportivo Alavés,N/A,,,
