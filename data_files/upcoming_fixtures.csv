@@ -1,5 +1,4 @@
 Date,Time,Matchday,HomeTeam,AwayTeam,Status
-2026-11-23,03:00 PM ET,13,Levante UD,Elche CF,TIMED
 2026-11-27,03:00 PM ET,14,Levante UD,Real Racing Club de Santander,TIMED
 2026-11-28,08:00 AM ET,14,Real Betis Balompié,Rayo Vallecano de Madrid,TIMED
 2026-11-28,10:15 AM ET,14,Málaga CF,Athletic Club,TIMED
@@ -22,6 +21,16 @@ Date,Time,Matchday,HomeTeam,AwayTeam,Status
 2026-12-06,12:30 PM ET,15,Getafe CF,Valencia CF,TIMED
 2026-12-06,03:00 PM ET,15,Club Atlético de Madrid,Real Betis Balompié,TIMED
 2026-12-07,03:00 PM ET,15,Sevilla FC,Málaga CF,TIMED
+2026-12-11,03:00 PM ET,16,Elche CF,Sevilla FC,TIMED
+2026-12-12,08:00 AM ET,16,Levante UD,Deportivo Alavés,TIMED
+2026-12-12,10:15 AM ET,16,Villarreal CF,Rayo Vallecano de Madrid,TIMED
+2026-12-12,12:30 PM ET,16,Málaga CF,FC Barcelona,TIMED
+2026-12-12,03:00 PM ET,16,Real Betis Balompié,Real Racing Club de Santander,TIMED
+2026-12-13,08:00 AM ET,16,Club Atlético de Madrid,Valencia CF,TIMED
+2026-12-13,10:15 AM ET,16,RC Deportivo La Coruña,Athletic Club,TIMED
+2026-12-13,12:30 PM ET,16,Real Sociedad de Fútbol,Getafe CF,TIMED
+2026-12-13,03:00 PM ET,16,Real Madrid CF,CA Osasuna,TIMED
+2026-12-14,03:00 PM ET,16,RCD Espanyol de Barcelona,RC Celta de Vigo,TIMED
 2026-12-19,07:00 PM ET,17,Athletic Club,Real Betis Balompié,SCHEDULED
 2026-12-19,07:00 PM ET,17,Getafe CF,Levante UD,SCHEDULED
 2026-12-19,07:00 PM ET,17,Deportivo Alavés,Elche CF,SCHEDULED
